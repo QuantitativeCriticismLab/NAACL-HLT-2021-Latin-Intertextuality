@@ -4,9 +4,9 @@ This repository includes the data and code relevant to the paper Burns, Brofos, 
 
 There are three subsections to this repository:
 
-- latin-embeddings-comparison (cf. Sect. 2 "Evaluation and optimization of word embedding models for Latin")
-- latin-embeddings-search (cf. Sect. 4.1 "Enhanced intertextual search")
-- latin-embeddings-classification (cf. Sect. 4.2 "Anomaly detection" )
+- [latin-embeddings-comparison](https://github.com/QuantitativeCriticismLab/NAACL-HLT-2021-Latin-Intertextuality/tree/main/latin-embeddings-classification) (cf. Sect. 2 "Evaluation and optimization of word embedding models for Latin")
+- [latin-embeddings-search](https://github.com/QuantitativeCriticismLab/NAACL-HLT-2021-Latin-Intertextuality/tree/main/latin-embeddings-search) (cf. Sect. 4.1 "Enhanced intertextual search")
+- [latin-embeddings-classification](https://github.com/QuantitativeCriticismLab/NAACL-HLT-2021-Latin-Intertextuality/tree/main/latin-embeddings-comparison) (cf. Sect. 4.2 "Anomaly detection" )
 
 Tested on Python 3.7.10. Dependencies necessary to run the experiments are included in ```requirements.txt```. Specific instructions to replicate the experiments is given in the ```README.md``` (and corresponding code notebooks) in each subfolder. 
 
