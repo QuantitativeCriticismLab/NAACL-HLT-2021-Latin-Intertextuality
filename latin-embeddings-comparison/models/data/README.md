@@ -1,0 +1,1 @@
+Use this folder for the training texts for the models created in the notebooks ```bamman-w2v-lemma.ipynb``` and ```bamman-w2v-lemma-TT.ipynb```. See more information in the notebooks. 
