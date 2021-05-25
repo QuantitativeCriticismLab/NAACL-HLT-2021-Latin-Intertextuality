@@ -1,0 +1,946 @@
+VF: Line Start,VF: Line End,VF: Lemma,Intertext: Author,Intertext: Work,Intertext: Book,Intertext: Line Start,Intertext: Line End,Kleywegt Ref.,Zissos Ref.,Spaltenstein Ref.,Intertext: Phrase,Query Phrase,Result Phrase,Order Free,Interval
+1,1,prima canimus,Vergil,Aeneid,1,1,1,6,74,23,cano primus,prima canimus,cano primus,TRUE,2
+1,1,prima canimus,Statius,Thebaid,1,4,4,6,,,canam primordia,prima canimus,canam primordia,TRUE,0
+1,1,prima canimus,Vergil,Aeneid,7,647,647,,,24,primus init bellum,prima sequi,primus init,FALSE,
+1,1,prima canimus,Lucan,Bellum Civile,5,461,461,,,24,prima duces,prima deum,prima duces,FALSE,
+1,1,prima canimus,Statius,Thebaid,4,5,5,,,24,prima manu,prima magnis,prima manu,FALSE,
+1,1,canimus,Lucan,Bellum Civile,1,2,2,6,74,23,canimus,canimus freta,iusque canimus,TRUE,2
+1,1,canimus,Statius,Thebaid,1,4,4,6,,,canam,prima canimus,gentisne canam,FALSE,
+2,2,canimus,Vergil,Aeneid,7,82,82,,74,,fatidici,fatidicam ratem,fatidici adit,TRUE,1
+2,2,canimus,Vergil,Aeneid,8,340,340,,74,,fatidicae,fatidicam ratem,uatis fatidicae,TRUE,0
+2,2,canimus,Vergil,Aeneid,10,199,199,,74,,fatidicae,fatidicam ratem,fatidicae mantus,FALSE,
+2,2,oras,Ovid,Metamorphoses,7,438,438,8,,,cephisias ora,phasidis oras,cephisias ora,FALSE,
+2,2,oras,Vergil,Aeneid,1,1,1,8,,,troiae qui primus ab oris italiam,phasidis oras,oris italiam,TRUE,0
+2,2,oras,Statius,Thebaid,12,182,182,,75,,phasidis,phasidis oras,phasidis innuptis,FALSE,
+3,3,ausa sequi,Vergil,Aeneid,7,300,300,8,,,quin etiam patria excussos infesta per undas ausa sequi,ausa sequi,ausa sequi,FALSE,
+3,3,sequi,Vergil,Aeneid,4,361,361,8,75,,italiam non sponte sequor,ausa sequi,sponte sequor,FALSE,
+3,3,medios inter,Vergil,Aeneid,1,348,348,,,25,quos inter medius venit furor,medios inter,inter medius,TRUE,0
+3,4,cursus ... rumpere,Vergil,Aeneid,2,494,494,9,76,,rumpunt aditus,cursus rumpere,rumpunt aditus,TRUE,0
+3,4,cursus ... rumpere,Vergil,Aeneid,10,372,372,9,,,rumpenda,cursus rumpere,ferro rumpenda,FALSE,
+4,4,cursus ... rumpere,Lucan,Bellum Civile,5,402,402,,78,26,flammifera nocte,flammifero olympo,flammifera nocte,TRUE,1
+4,4,cursus ... rumpere,Ovid,Metamorphoses,2,154,155,,78,,flammiferis inplent pedibusque repagula pulsant,flammifero olympo,auras flammiferis,TRUE,0
+4,4,consedit,Vergil,Aeneid,7,201,201,,,26,portuque sedetis,consedit olympo,portuque sedetis,TRUE,0
+4,4,tandem,Vergil,Aeneid,11,493,493,,,26,tandem liber equus,cursus tandem,tandem equus,TRUE,1
+5,5,mone,Vergil,Aeneid,7,41,41,12,80,26,tu vatem tu diva mone,phoebe mone,diua mone,FALSE,
+5,6,Phoebe ... cortina,Vergil,Aeneid,6,347,347,,80,,phoebi cortina,phoebe cortina,phoebi cortina,FALSE,
+6,6,casta domo,Lucan,Bellum Civile,9,201,201,12,80,,casta domus,casta domo,casta domus,FALSE,
+7,7,tu ... o ... cui,Vergil,Aeneid,2,638,638,13,83,,vos o quibus,tu o,uos o,FALSE,
+7,7,tu ... o ... cui,Statius,Thebaid,1,22,22,13,,,teque o latiae decus addite famae,tu o,teque o,FALSE,
+7,7,tu ... o ... cui,Statius,Thebaid,6,916,916,13,83,,tuque o quem,tu o,tuque o,FALSE,
+8,9,Caledonius ... Oceanus,Lucan,Bellum Civile,6,68,68,14,83,29,caledonios britannos,caledonius oceanus,caledonios britannos,TRUE,2
+8,8,vexit,Vergil,Aeneid,6,326,326,14,,,hi quos vehit unda,carbasa uexit,quos uehit,FALSE,
+9,9,indignatus,Vergil,Aeneid,8,728,728,14,84,29,pontem indignatus araxes,indignatus iulos,indignatus araxes,FALSE,
+9,9,indignatus,Ovid,Metamorphoses,11,491,491,14,84,,freta indignantia,oceanus indignatus,fretaque indignantia,FALSE,
+9,9,Phrygios ... Iulos,Lucan,Bellum Civile,3,213,213,14,84,29,phrygiique ferens se caesar iuli,phrygios iulos,phrygiique iuli,TRUE,3
+10,10,habenti ... terrae,Ovid,Metamorphoses,1,632,632,15,,,terrae non semper gramen habenti,habenti terrae,terrae habenti,TRUE,3
+11,11,namque potes,Vergil,Aeneid,6,366,366,15,,,eripe me his invicte malis namque potes,namque potes,namque potes,FALSE,
+11,11,namque potes,Vergil,Aeneid,6,117,117,,85,,potes namque omnia,namque potes,namque potes,FALSE,
+11,11,namque potes,Statius,Thebaid,10,69,69,,85,,aliud potes,namque potes,aliud potes,FALSE,
+12,12,pandit,Statius,Thebaid,4,34,34,17,,,pande viros,proles pandit,pande uiros,TRUE,0
+12,12,versam proles tua pandit Idumen,Vergil,Aeneid,1,20,20,17,,,tyrias quae verteret arces,uersam idumen,tyrias uerteret,TRUE,2
+12,12,versam proles tua pandit Idumen,Lucan,Bellum Civile,3,216,216,17,,31,gazaque et arbusto palmarum diues idume,proles idumen,diues idume,FALSE,
+13,13,sancte pater,Vergil,Aeneid,5,80,80,18,,,salve sancte parens,sancte pater,sancte parens,FALSE,
+13,13,nigrantem,Statius,Thebaid,10,298,298,18,,,nigrantia tabo gramina,nigrantem puluere,nigrantia tabo,FALSE,
+14,14,spargentem ... faces,Vergil,Aeneid,11,650,650,18,,,spargens hastilia,spargentem faces,spargens hastilia,FALSE,
+17,18,neque erit Tyriae Cynosura carinae certior ...,Lucan,Bellum Civile,3,219,219,,92,,certior haud ullis duxit cynosura carinis,cynosura carinae,cynosura carinis,FALSE,
+19,19,te duce,Vergil,Aeneid,6,59,59,23,,,duce te,te duce,duce te,TRUE,0
+22,22,Haemoniam,Ovid,Metamorphoses,1,567,567,29,,,haemoniae,haemoniam primis,nemus haemoniae,TRUE,0
+22,25,Pelias frenabat ... iam gravis et longus populis metus,Vergil,Aeneid,1,523,523,,,36,iustitia gentis frenare superbas,frenabat populis,gentis frenare,TRUE,0
+22,22,primis ... ab annis,Vergil,Aeneid,2,87,87,29,,,primis huc misit ab annis,ab annis,ab annis,FALSE,
+22,22,primis ... ab annis,Vergil,Aeneid,8,517,517,29,,,primis et te miretur ab annis,ab annis,ab annis,FALSE,
+23,23,primis ... ab annis,Vergil,Aeneid,5,387,387,,,36,gravis dictis castigat,frenabat grauis,grauis castigat,TRUE,2
+25,25,imum ... Olympum,Lucan,Bellum Civile,6,341,341,31,,,imi habitor olympi,imum olympum,imi olympi,TRUE,2
+26,26,sed non ulla quies animo,Vergil,Aeneid,2,755,755,32,,,horror ubique animo,quies animo,horror animo,TRUE,1
+27,28,hunc nam fore regi / exitio:,Vergil,Aeneid,1,444,444,33,,,sic nam fore bello egregiam,nam fore,nam fore,FALSE,
+28,28,per aras,Vergil,Aeneid,2,501,501,33,,,priamumque per aras,per aras,per aras,FALSE,
+28,28,per aras,Vergil,Aeneid,4,56,56,,,37,pacemque per aras exquirunt,per aras,per aras,FALSE,
+28,28,pecudumque per aras terrifici monitus,Lucan,Bellum Civile,1,588,588,33,,,monitus errantis in aere pinnae,terrifici monitus,monitus volitantis,TRUE,0
+28,29,vatesque canunt pecudumque per aras/ terrifici monitus iterant:,Vergil,Aeneid,4,464,465,33,98,37,vatum praedicta priorum terribili monitu horrificant,terrifici monitus,terribili monitu,FALSE,
+28,29,vatesque canunt pecudumque per aras/ terrifici monitus iterant:,Vergil,Aeneid,5,524,524,,98,37,terrifici cecinerunt omina vates,uatesque terrifici,terrifici uates,TRUE,2
+29,30,super ipsius ingens / instat fama viri virtusque haud laeta tyranno,Vergil,Aeneid,11,124,124,,98,,o fama ingens,ingens fama,fama ingens,TRUE,0
+29,30,super ipsius ingens / instat fama viri virtusque haud laeta tyranno,Vergil,Aeneid,2,71,71,,,38,et super ipsi dardanidae poscunt,super ipsius,super ipsi,FALSE,
+30,30,... viri virtusque ...,Vergil,Aeneid,4,3,3,,99,,multa viri virtus animo multusque recursat,uiri uirtusque,uiri uirtus,FALSE,
+30,30,... viri virtusque ...,Vergil,Aeneid,8,500,500,,99,,virtusque virum,uiri uirtusque,uirtusque uirum,TRUE,0
+30,30,... viri virtusque ...,Lucan,Bellum Civile,3,484,484,,99,,at postquam uirtus incerta uirorum,uiri uirtusque,uirtus uirorum,TRUE,1
+34,36,... viri virtusque ...,Lucan,Bellum Civile,4,612,612,36,103,39,cleonaei leonis,cleonaeo clausus,cleonaei leonis,TRUE,2
+34,36,... viri virtusque ...,Statius,Thebaid,1,487,487,36,,,ante cleonaei vestitus proelia monstri,cleonaeo clausus,cleonaei uestitus,FALSE,
+34,34,Cleonaeo iam tempora clausus hiatu,Vergil,Aeneid,11,680,680,36,,39,caput ingens oris hiatus,cleonaeo hiatu,oris hiatus,FALSE,
+34,34,Cleonaeo iam tempora clausus hiatu,Statius,Thebaid,11,28,28,36,,,armenti reges magno leo fregit hiatu,cleonaeo hiatu,leo hiatu,TRUE,1
+35,35,olim erat,Ovid,Metamorphoses,2,466,466,37,,,senserat hoc olim magni matrona tonantis,olim erat,senserat olim,TRUE,1
+35,35,olim erat,Statius,Thebaid,11,634,634,37,,,olim extulerat,olim erat,olim extulerat,TRUE,6
+35,35,lernae ... angue,Vergil,Aeneid,8,300,300,37,104,,lernaeus anguis,lernae angue,lernaeus anguis,TRUE,3
+37,37,lernae ... angue,Ovid,Metamorphoses,1,330,330,39,,,maris ira,ira maris,maris ira,TRUE,0
+37,37,lernae ... angue,Ovid,Metamorphoses,14,471,471,39,,,iram caelique marisque,ira maris,iram marisque,TRUE,1
+37,37,discrimen ponti,Lucan,Bellum Civile,3,336,336,39,,,discrimina martis,discrimen ponti,discrimina martis,FALSE,
+37,37,discrimen ponti,Lucan,Bellum Civile,4,48,48,39,,,armorum discrimina,discrimen ponti,armorum discrimina,TRUE,0
+38,38,tranquilla tuens,Vergil,Aeneid,9,794,794,39,107,41,acerba tuens,tranquilla tuens,acerba tuens,FALSE,
+38,38,tranquilla tuens,Vergil,Aeneid,6,467,467,39,107,41,torva tuentem,tranquilla tuens,torua tuentem,FALSE,
+39,39,fictis dat vultum et pondera dictis,Statius,Thebaid,6,292,293,,107,,ficto ore,fictis uultum,ficto ore,FALSE,
+40,40,veterum ... actis,Lucan,Bellum Civile,1,121,121,42,,,nova ne veteres obscurent acta triumphos,ueterum actis,veteres facta,TRUE,1
+41,41,adnue ... animum,Vergil,Aeneid,1,250,250,41,,42,caeli quibus adnuis arcem,adnue animum,adnuis arcem,FALSE,
+41,41,adnue ... animum,Vergil,Aeneid,12,187,187,41,,,sin nostrum adnuerit nobis victoria martem,adnue nostrum,nostrum adnuerit,TRUE,0
+43,43,Scythiam ... rigentem,Lucan,Bellum Civile,6,478,478,44,,,solibus et nullis scythicae cum bruma rigeret dimaduere nives,scythiam rigentem,scythicae rigeret,TRUE,2
+43,43,hospita vina,Vergil,Aeneid,3,377,377,45,,,hospita lustres aequora,hospita uina,hospita aequora,TRUE,1
+46,47,nuntia ... fama,Vergil,Aeneid,9,474,474,45,111,45,nuntia fama ruit,nuntia fama,nuntia fama,FALSE,
+47,47,gementem,Vergil,Aeneid,11,865,865,,,46,extrema gementem,tam gementem,extrema gementem,FALSE,
+47,48,ipsum ... ego,Vergil,Aeneid,5,846,846,46,,,ipse ego,ipsum ego,ipse ego,FALSE,
+47,48,ipsum ... ego,Vergil,Aeneid,5,846,846,46,,,ipse ego,ipsum ego,ipse ego,FALSE,
+47,48,ipsum ... ego,Vergil,Aeneid,8,57,57,46,,,ipse ego,ipsum ego,ipse ego,FALSE,
+48,48,fessos sopor alligat artus,Vergil,Aeneid,3,511,511,46,112,46,fessos sopor irrigat artus,fessos sopor,fessos sopor,FALSE,
+48,48,fessos sopor alligat artus,Lucan,Bellum Civile,4,289,289,46,,,frigidus artus alligat torpor,alligat artus,artus adligat,TRUE,0
+49,49,lacera [adsiduis namque illius umbra],Vergil,Aeneid,6,495,495,47,,,deiphobum vidit lacerum crudeliter ora,lacera umbra,lacerum ora,TRUE,1
+50,50,magni numen maris ... Helle,Ovid,Metamorphoses,5,369,369,47,,,numina ponti,numen maris,numina ponti,FALSE,
+50,50,magni numen maris ... Helle,Vergil,Aeneid,12,182,182,47,,,numina ponto,numen maris,numina ponto,FALSE,
+51,51,si mihi quae quondam vires ... videres,Vergil,Aeneid,5,397,397,48,,47,si mihi quae quondam fueratsi nunc foret illa inventas,si quondam,si quondam,TRUE,2
+51,51,si mihi quae quondam vires ... videres,Vergil,Aeneid,8,560,560,48,113,47,o mihi praeteritos referat si iuppiter annos,mihi uideres,mihi referat,TRUE,1
+53,53,ardor hebet,Vergil,Aeneid,5,396,396,48,113,,gelidus tardante senecta sanguis hebet,ardor hebet,sanguis hebet,FALSE,
+53,53,ardor hebet,Vergil,Aeneid,4,581,581,49,,,ardor habet,ardor hebet,ardor habet,FALSE,
+55,55,curaeque ... animique viriles,Vergil,Aeneid,9,311,311,49,,48,ante annos animumque gerens curamque virilem,curaeque uiriles,curamque uirilem,FALSE,
+56,56,i decus,Vergil,Aeneid,6,546,546,49,115,48,i decus i nostrum,i decus,i decus,FALSE,
+57,57,[redde] tholo [ac tantis temet dignare periclis],Vergil,Aeneid,9,408,408,50,115,48,si quae ipse meis venatibus auxi suspendive tholo,redde tholo,suspendiue tholo,FALSE,
+57,57,[redde] tholo [ac tantis temet dignare periclis],Statius,Thebaid,4,333,333,50,,,sacrisque exuviae cecidere tholis,tholo dignare,cecidere tholis,TRUE,0
+57,57,se dignare,Vergil,Aeneid,1,335,335,50,,,haud equidem tali me dignor honore,se dignare,me dignor,FALSE,
+59,59,[certus Scythico] concurrere [ponto / Cyaneas],Ovid,Metamorphoses,7,62,62,52,,,mediis concurrere in undis dicuntur montes,concurrere ponto,concurrere undis,TRUE,1
+59,59,[certus Scythico] concurrere [ponto / Cyaneas],Statius,Thebaid,11,438,438,52,,49,pontus cyaneas vetuit concurrere montes,concurrere cynaneas,cyaneos concurrere,TRUE,1
+61,61,multifidas ... linguas,Ovid,Metamorphoses,7,259,259,52,117,,multifidasque faces,multifidas linguas,multifidasque faces,FALSE,
+62,62,[linguas] vibrantem,Ovid,Metamorphoses,15,684,684,53,,,et repetita dedit vibrata sibila lingua,linguas uibrantem,uibrata lingua,TRUE,1
+62,62,[linguas] vibrantem,Lucan,Bellum Civile,9,631,631,53,,,angues stridula fuderunt vibratis sibila linguis,linguas uibrantem,uibratis linguis,TRUE,1
+62,62,[linguas] vibrantem,Vergil,Aeneid,2,211,211,,117,50,lambebant linguis vibrantibus ora,linguas uibrantem,linguis uibrantibus,FALSE,
+64,64,Mox taciti patuere doli,Vergil,Aeneid,1,130,130,55,,,nec latuere doli,patuere doli,latuere doli,FALSE,
+64,64,Mox taciti patuere doli,Lucan,Bellum Civile,4,746,746,55,,,ut primum patuere doli,patuere doli,patuere doli,FALSE,
+66,66,iussos [quaerere],Vergil,Aeneid,10,444,444,56,,,aequore iusso,iussos quaerere,aequore iusso,TRUE,0
+66,66,iussos [quaerere],Ovid,Metamorphoses,11,591,591,56,,,tecta petit iussi regis,iussos quaerere,petit iussi,TRUE,0
+66,66,iussos [quaerere],Ovid,Metamorphoses,8,819,819,56,,,ad iussam domum,iussos quaerere,ad iussam,TRUE,0
+67,67,[aerii] plantaria,Statius,Thebaid,1,304,304,57,,,plantaribus alis,aerii plantaria,plantaribus alis,TRUE,1
+67,67,[aerii] plantaria,Vergil,Aeneid,4,259,259,57,,,alatis plantis,aerii plantaria,alatis plantis,TRUE,2
+67,68,aerii ... Perseos,Vergil,Aeneid,9,803,803,57,,,aeriam irim,aerii perseos,aeriam irim,TRUE,-1
+68,68,frenasse dracones,Ovid,Metamorphoses,7,220,220,57,,,frenataque colla draconum medeas,frenasse dracones,frenataque draconum,TRUE,1
+68,68,currus ... frenasse,Vergil,Aeneid,12,287,287,57,,,infrenant alii currus,currus frenasse,infrenant currus,TRUE,1
+71,71,heu quid agat,Vergil,Aeneid,4,283,283,59,,54,heu quid agat,heu agat,heu agat,TRUE,1
+71,71,heu quid agat,Vergil,Aeneid,12,486,486,59,,,heu quid agat,heu agat,heu agat,TRUE,1
+71,71,heu quid agat,Vergil,Aeneid,9,399,399,59,,,quid faciat,quid agat,quid faciat,FALSE,
+71,71,populum(ne) levem,Ovid,Metamorphoses,10,14,14,60,,,leves populos,populum leuem,leues populos,TRUE,0
+71,71,populum(ne) levem,Ovid,Metamorphoses,12,53,53,60,,,leve vulgus,populum leuem,leue uulgus,TRUE,0
+71,71,populum(ne) levem,Statius,Thebaid,1,169,170,,123,,mos populis,populum leuem,mos populis,TRUE,0
+71,71,populum ... atque ... patres,Vergil,Aeneid,4,682,682,,123,,populumque patresque,populum patres,populumque patresque,FALSE,
+71,71,populum ... atque ... patres,Vergil,Aeneid,9,192,192,,123,,populusque patresque,populum patres,populusque patresque,FALSE,
+71,71,populum ... atque ... patres,Ovid,Metamorphoses,15,486,486,,123,,populusque patresque,populum patres,populusque patresque,FALSE,
+74,74,Pallade ... armisona,Vergil,Aeneid,3,544,544,61,124,55,palladis armisonae,pallade armisona,palladis armisonae,FALSE,
+74,74,Pallade ... armisona,Statius,Thebaid,1,535,535,,124,55,pallados armisonae,pallade armisona,pallados armisonae,FALSE,
+76,76,animos mentemque,Lucan,Bellum Civile,1,354,354,62,,,mentes animosque,animos mentem,mentes animosque,TRUE,0
+76,76,animos mentemque,Vergil,Aeneid,6,11,11,,126,,mentem animumque,animos mentem,mentem animumque,TRUE,0
+77,77,viridem et immunem senectae,Vergil,Aeneid,5,295,295,63,126,,viridique iuventa,uiridem senectae,uiridique iuuenta,FALSE,
+77,77,viridem et immunem senectae,Vergil,Aeneid,6,304,304,63,,,viridisque senectus,uiridem senectae,uiridisque senectus,FALSE,
+79,79,animi ... firmat,Vergil,Aeneid,3,611,611,63,,,animum praesenti pignore firmat,animi firmat,animum firmat,TRUE,2
+80,80,tendensque pias ad sidera palmas,Vergil,Aeneid,1,93,93,64,127,,duplicis tendens ad sidera palmas,sidera palmas,sidera palmas,FALSE,
+80,80,tendensque pias ad sidera palmas,Vergil,Aeneid,2,688,688,,,57,et caelo palmas cum voce tetendit,tendensque palmas,palmas tetendit,TRUE,2
+80,80,tendensque pias ad sidera palmas,Vergil,Aeneid,5,256,256,64,,57,palmas nequiquam ad sidera tendunt,sidera palmas,palmas sidera,TRUE,2
+80,80,tendensque pias ad sidera palmas,Statius,Thebaid,1,497,497,64,,,tendens ad sidera palmas,sidera palmas,sidera palmas,FALSE,
+80,80,tendensque pias ad sidera palmas,Statius,Thebaid,10,336,336,64,,,tollens ad sidera palmas,sidera palmas,sidera palmas,FALSE,
+80,80,pias ad sidera palmas,Vergil,Aeneid,10,667,667,,,57,manus ad sidera tendit,ad sidera,ad sidera,FALSE,
+80,80,pias ad sidera palmas,Vergil,Aeneid,6,530,530,,,57,pio si poenas ore reposco,pias palmas,pio poenas,TRUE,1
+81,81,omnipotens regina,Vergil,Aeneid,2,689,689,65,,,iuppiter omnipotens,omnipotens regina,iuppiter omnipotens,TRUE,0
+81,81,omnipotens regina,Vergil,Aeneid,4,206,206,65,,,iuppiter omnipotens,omnipotens regina,iuppiter omnipotens,TRUE,0
+81,81,omnipotens regina,Vergil,Aeneid,5,687,687,65,,,iuppiter omnipotens,omnipotens regina,iuppiter omnipotens,TRUE,0
+81,81,omnipotens regina,Vergil,Aeneid,9,625,625,65,,,iuppiter omnipotens,omnipotens regina,iuppiter omnipotens,TRUE,0
+81,81,omnipotens regina,Vergil,Aeneid,4,693,693,,129,,omnipotens,omnipotens regina,iuno omnipotens,TRUE,0
+81,81,omnipotens regina,Vergil,Aeneid,7,428,428,,129,,omnipotens saturnia,omnipotens regina,omnipotens saturnia,FALSE,
+81,81,omnipotens regina,Vergil,Aeneid,10,668,668,65,,,omnipotens genitor,omnipotens regina,omnipotens genitor,FALSE,
+81,82,turbidus atro aethere,Vergil,Aeneid,5,695,695,,,58,aethere toto turbidus,turbidus aethere,aethere turbidus,TRUE,1
+81,82,atro aethere,Lucan,Bellum Civile,4,74,74,65,,,aëris atri,atro aethere,aeris atri,TRUE,0
+82,82,caeruleum ... imbrem,Vergil,Aeneid,3,194,194,65,130,58,caeruleus supra caput astitit imber,caeruleum imbrem,caeruleus imber,TRUE,3
+82,82,caeruleum ... imbrem,Vergil,Aeneid,5,10,10,65,,58,caeruleus imber,caeruleum imbrem,caeruleus imber,TRUE,3
+83,83,imbrem ... tumidum per Enipea nimbo,Ovid,Metamorphoses,9,105,105,66,,,nimbis hiemalibus actus,tumidum nimbo,nimbis hiemalibus,TRUE,0
+83,83,imbrem ... tumidum per Enipea nimbo,Ovid,Metamorphoses,8,550,550,66,,,imbre tumens,imbrem tumidum,imbre tumens,FALSE,
+83,83,imbrem ... tumidum per Enipea nimbo,Vergil,Aeneid,11,393,393,66,,,iliaco tumidum,imbrem tumidum,iliaco tumidum,FALSE,
+83,83,imbrem ... tumidum per Enipea nimbo,Vergil,Aeneid,8,85,85,66,,,nocte tumentem,tumidum nimbo,nocte tumentem,TRUE,0
+83,83,imbrem ... tumidum per Enipea nimbo,Lucan,Bellum Civile,6,272,272,66,,,ore tumens,tumidum nimbo,ore tumens,TRUE,0
+84,84,nec credere quivi,Vergil,Aeneid,6,463,463,66,130,59,nec credere quivi,credere quiui,credere quiui,FALSE,
+86,86,subita formidine,Vergil,Aeneid,3,259,259,67,,,subita gelidus formidine,subita formidine,subita formidine,TRUE,1
+87,87,innuba Pallas,Ovid,Metamorphoses,10,567,567,68,131,,innuba silvas,innuba pallas,innuba siluas,FALSE,
+87,87,innuba Pallas,Lucan,Bellum Civile,9,665,665,68,130,,pallas tulit innuba,innuba pallas,pallas innuba,TRUE,1
+87,87,innuba Pallas,Statius,Thebaid,2,251,251,,130,,innuptam pallada,innuba pallas,innuptam pallada,TRUE,2
+88,88,eripe me,Vergil,Aeneid,2,289,289,68,,,teque his ait eripe flammis,eripe me,teque eripe,TRUE,2
+88,88,eripe me,Ovid,Metamorphoses,8,853,853,68,,,eripe me domino,eripe me,eripe me,FALSE,
+88,88,eripe me,Vergil,Aeneid,3,560,560,,,60,eripite o socii,eripe me,eripite o,FALSE,
+89,89,dabit auratis et cornibus igni / colla pater,Vergil,Aeneid,9,627,627,68,131,60,et statuam ante aras aurata fronte iuvencum candentem pariter que caput cum matre ferentem,auratis cornibus,aurata fronte,FALSE,
+89,89,dabit auratis et cornibus igni / colla pater,Vergil,Aeneid,5,366,366,,131,,victori velatum auro vittisque iuvencum,auratis cornibus,uelatum auro,TRUE,0
+89,89,dabit auratis et cornibus igni / colla pater,Ovid,Metamorphoses,7,161,161,71,131,,inducta cornibus aurum victima vota facit,auratis cornibus,cornibus aurum,TRUE,0
+89,89,dabit auratis et cornibus igni / colla pater,Ovid,Metamorphoses,10,271,271,,,60,cornibus aurum,auratis cornibus,cornibus aurum,TRUE,0
+90,90,colla pater niveique greges altaria cingent,Statius,Thebaid,1,506,506,,,61,litabunt electa cervice greges,colla greges,ceruice greges,FALSE,
+90,90,colla pater niveique greges altaria cingent,Vergil,Aeneid,4,459,459,,,61,velleribus niveis,colla niueique,uelleribus niueis,FALSE,
+91,91,celerique per aethera lapsu,Ovid,Metamorphoses,6,216,216,71,133,61,celerique per aera lapsu,celerique lapsu,celerique lapsu,TRUE,2
+92,92,petiere vias,Vergil,Aeneid,12,913,913,71,,,viam virtute petivit,petiere uias,uiam petiuit,TRUE,1
+93,93,Thespiaca [ad],Statius,Thebaid,7,341,341,,135,,thespiacis iam,thespiaca ad,thespiacis iam,FALSE,
+93,93,Tritonia,Vergil,Aeneid,2,171,171,72,,,dedit tritonia,tritonia deuolat,dedit tritonia,TRUE,0
+93,93,Tritonia,Vergil,Aeneid,2,615,615,72,,,tritonia respice pallas,tritonia argum,tritonia pallas,TRUE,1
+93,93,Tritonia,Vergil,Aeneid,5,704,704,72,,,tritonia pallas,tritonia argum,tritonia pallas,FALSE,
+93,93,Tritonia,Vergil,Aeneid,11,483,483,72,,,tritonia virgo,tritorna argum,tritonia uirgo,FALSE,
+94,94,moliri ... puppem ... et demittere ... robora,Vergil,Aeneid,3,5,5,72,,,classemque sub ipsa antandro et phrygiae molimur,moliri puppem,et phrygiae,TRUE,0
+95,95,umbras,Ovid,Metamorphoses,1,590,590,72,,,pete dixerat umbras altorum nemorum,exit umbras,nemorum umbras,TRUE,3
+96,96,Argolicas ... urbes,Ovid,Metamorphoses,8,267,267,72,136,,sparserat argolicas nomen vaga fama per urbes theseos,argolicas urbes,argolicas urbes,TRUE,4
+96,96,Iuno Argolicas,Vergil,Aeneid,1,24,24,,,63,caris argis,iuno argolicas,caris argis,TRUE,1
+96,96,Macetum,Lucan,Bellum Civile,2,646,646,73,137,,per arva graiorum macetumque,macetum per,per macetumque,TRUE,2
+96,96,Macetum,Lucan,Bellum Civile,5,2,2,73,,,in macetum,macetum per,in macetum,TRUE,0
+96,96,Macetum,Lucan,Bellum Civile,10,16,16,73,,,macetum testantia uires circumit,macetum spargit,macetum testantia,FALSE,
+97,97,inexpertos ... parentibus,Lucan,Bellum Civile,5,486,486,73,137,,inexperto tua credimus arma profundo,inexpertos parentibus,inexperto tua,FALSE,
+97,97,temptare [Austros],Lucan,Bellum Civile,9,321,321,74,,,temptatum classibus aequor,temptare austros,tentatum aequor,TRUE,1
+99,99,in saecula tollat,Lucan,Bellum Civile,8,608,608,74,138,,in saecula mittet,saecula tollat,saecula mittet,FALSE,
+100,100,bellis spectataque fama,Vergil,Aeneid,7,745,745,,139,64,insignem fama et felicibus armis,bellis fama,fama armis,TRUE,2
+100,100,[bellis] spectataque [fama],Vergil,Aeneid,8,151,151,75,139,,rebus spectata inventus,bellis spectata,rebus spectata,FALSE,
+102,102,[primae] Temptamenta,Vergil,Aeneid,8,143,143,76,139,,prima temptamenta tui,primae temptamenta,prima temptamenta,TRUE,2
+102,102,[florae] temptamenta,Ovid,Metamorphoses,7,728,728,76,139,,temptamenta fide,flore temptamenta,temptamenta fide,TRUE,0
+102,102,temptamenta [necdum],Ovid,Metamorphoses,15,629,629,76,139,,temptamenta nihil,temptamenta necdum,temptamenta nihil,FALSE,
+102,102,data copia,Vergil,Aeneid,1,520,520,76,,,data copia,data copia,data copia,FALSE,
+102,102,data copia,Vergil,Aeneid,9,484,484,76,,,data copia,data copia,data copia,FALSE,
+102,102,data copia,Vergil,Aeneid,9,720,720,76,,,data copia,data copia,data copia,FALSE,
+102,102,data copia,Ovid,Metamorphoses,11,786,786,76,,,data copia,data copia,data copia,FALSE,
+103,103,insontis,Statius,Thebaid,6,75,75,76,,65,insontesque sagittas,insontis aratri,insontesque sagittas,FALSE,
+103,103,insontis,Statius,Thebaid,12,682,682,76,,65,ramis insontis olivae,insontis aratri,ramis insontis,TRUE,0
+101,101,primae ... in flore iuventae,Vergil,Aeneid,7,162,162,76,139,,primaevo flore iuventus,flore iuuentae,flore iuuentus,FALSE,
+101,101,primae ... in flore iuventae,Vergil,Aeneid,8,160,160,76,139,,flore iuventas,flore iuuentae,flore iuuentas,FALSE,
+104,104,hos stimulant,Vergil,Aeneid,4,302,302,,76,,stimulant trieterica baccho orgia,hos stimulant,audito stimulant,FALSE,
+104,104,hos stimulant,Vergil,Aeneid,4,576,576,,76,,iterum instimulat,hos stimulant,iterum stimulat,FALSE,
+105,105,visi ... manifesto in lumine,Vergil,Aeneid,4,358,358,77,140,65,ipse deum manifesto in lumine vidi,manifesto lumine,manifesto lumine,TRUE,1
+105,105,visi ... manifesto in lumine,Vergil,Aeneid,3,151,151,77,140,65,visi ante oculos astare iacentis in somnis multo manifesto in lumine,manifesto lumine,manifesti lumine,FALSE,
+104,104,per lustra viasque,Vergil,Aeneid,4,151,151,77,,,in montis atque invia lustra,lustra uiasque,inuia lustra,TRUE,0
+104,104,per lustra viasque,Vergil,Aeneid,11,570,570,77,,,in dumis interque horrentia lustra,lustra uiasque,interque lustra,TRUE,1
+104,104,per lustra viasque,Ovid,Metamorphoses,3,146,146,77,,,per devia lustra,per lustra,per lustra,TRUE,1
+104,105,magna ... laude canunt,Statius,Thebaid,8,552,552,77,,,longa iacet ipse canendus laude,canunt laude,canendus laude,FALSE,
+106,106,cornibus,Ovid,Metamorphoses,9,83,84,,140,,dura cornua,elatis cornibus,dura cornua,FALSE,
+106,106,cornibus,Vergil,Aeneid,8,77,77,78,140,,corniger hesperidum fluvius regnator aquarum,elatis cornibus,fluuius regnator,TRUE,0
+106,106,elatis cornibus,Vergil,Aeneid,12,115,115,,78,,elatis naribus,elatis cornibus,elatis naribus,FALSE,
+107,107,Inachiis ... Argis,Vergil,Aeneid,7,286,286,79,,67,inachiis sese referebat ab argis,inachiis argis,inachiis argis,TRUE,3
+107,107,Tirynthius,Vergil,Aeneid,7,662,662,79,143,,tirynthius attigit,tirynthius aduolat,tirynthius attigit,FALSE,
+107,107,Tirynthius,Vergil,Aeneid,8,228,228,79,143,,aderat tirynthius,tirynthius aduolat,aderat tirynthius,TRUE,0
+107,107,Tirynthius,Ovid,Metamorphoses,9,66,66,79,143,,risit tirynthius,tirynthius aduolat,risit tirynthius,TRUE,3
+107,107,Tirynthius,Ovid,Metamorphoses,9,268,268,79,143,,tirynthius exuit,tirynthius aduolat,tirynthius exuit,FALSE,
+108,108,veneno,Ovid,Metamorphoses,9,130,130,,,68,lernaei veneni,arcadio ueneno,lernaei ueneni,TRUE,1
+108,109,Arcadio ... flammata veneno/ [tela],Vergil,Aeneid,9,773,773,79,144,68,ferrumque armare veneno,tela ueneno,armare ueneno,FALSE,
+108,109,Arcadio ... flammata veneno/ [tela],Vergil,Aeneid,10,140,140,79,144,68,calamos armare veneno,tela ueneno,armare ueneno,FALSE,
+108,109,Arcadio ... flammata veneno/ [tela],Vergil,Aeneid,12,856,856,79,144,68,sagitta armatam saevi parthus quam felle veneni,tela ueneno,felle ueneni,FALSE,
+108,108,flammata veneno,Ovid,Metamorphoses,9,171,171,79,144,,ardente veneno,flammata ueneno,ardente ueneno,FALSE,
+109,109,facilesque umeris gaudentibus arcus / gestat,Vergil,Aeneid,1,318,318,,,69,umeris de more habilem suspenderat arcum,umeris arcus,umeris arcum,TRUE,4
+109,109,umeris gaudentibus,Statius,Thebaid,1,700,700,,,69,ingratis phrygios umeris subiisse molares,umeris gaudentibus,phrygios umeris,TRUE,0
+111,111,par oneri,Statius,Thebaid,8,285,285,80,144,,oneri negat esse parem,par oneri,oneri parem,TRUE,2
+112,112,novat Saturnia questus,Statius,Thebaid,1,111,111,,146,,novat proserpina cultus,nouat saturnia,nouat proserpina,FALSE,
+115,116,imbrem ... torsissem,Vergil,Aeneid,8,429,429,82,,,tris imbris torti radios,imbrem torsissem,imbris torti,FALSE,
+115,116,tenebras ... torsissem,Vergil,Aeneid,9,671,671,,,71,torquet hiemem,tenebras torsissem,torquet hiemem,TRUE,1
+115,115,saevumque tridentem,Vergil,Aeneid,1,138,138,82,148,70,saevumque tridentem,saeuumque tridentem,saeuumque tridentem,FALSE,
+116,116,ignem,Vergil,Aeneid,1,42,42,,148,,iovis ignem,coniugis ignem,iouis ignem,TRUE,4
+116,116,ignem,Ovid,Metamorphoses,2,281,281,,148,,igne tuo,ego ignem,igne tuo,TRUE,1
+116,116,ignem,Statius,Thebaid,1,92,92,,148,,igne iovis,coniugis ignem,igne iouis,TRUE,0
+120,120,detorquet ad undas,Vergil,Aeneid,5,165,165,84,,,proram pelagi detorquet ad undas,detorquet undas,detorquet undas,TRUE,1
+121,121,fervere,Statius,Thebaid,1,525,525,85,150,,feruere domum,feruere uirum,feruere domum,FALSE,
+121,121,fervere,Statius,Thebaid,5,144,144,85,150,,scythiam feruere,feruere uirum,scythiam feruere,TRUE,0
+121,121,fervere,Statius,Thebaid,10,468,468,85,150,,innumeris feruere cateruis tellurem,feruere uirum,feruere cateruis,FALSE,
+121,121,fervere,Vergil,Aeneid,4,407,407,,150,,semita fervet,feruere cuncta,semita feruet,TRUE,0
+122,122,nemus,Lucan,Bellum Civile,1,306,306,85,,72,in classem cadit omne nemus,undique nemus,omne nemus,FALSE,
+122,122,nemus,Lucan,Bellum Civile,3,394,394,85,,,unc omnia late procumbunt nemora,undique nemus,dies nemora,TRUE,4
+126,126,velifero ... malo,Lucan,Bellum Civile,1,500,500,87,151,74,fractaque veliferi sonuerunt pondera mali,uelifero malo,ueliferi mali,TRUE,2
+126,126,malo,Vergil,Aeneid,5,829,829,,152,,malos intendi bracchia,bracchia malo,malos brachia,TRUE,1
+126,126,malo,Statius,Thebaid,4,24,24,88,,,viris longum super aequor ituris,longo ponto,longum aequor,TRUE,1
+126,126,malo,Statius,Thebaid,6,799,799,,,74,longa nautas,longo ponto,longa nautas,TRUE,3
+128,128,tenues subiere latentia cerae,Ovid,Metamorphoses,11,514,514,88,,,spoliataque tegmine cerae rima patet,tenues cerae,cerae rima,TRUE,0
+128,128,tenues subiere latentia cerae,Lucan,Bellum Civile,10,494,494,88,,,manantis cera tabulas,tenues cerae,cera tabulas,TRUE,0
+129,129,picturae ... honores,Vergil,Aeneid,5,663,663,,,75,pictae carinae,picturae honores,pictas puppes,TRUE,1
+131,131,aequora delphin,Lucan,Bellum Civile,5,552,552,91,,,aequora delphin,aequora delphin,aequora delphin,FALSE,
+132,132,deiecta in lumina palla,Statius,Thebaid,11,495,495,91,156,,deiectam in lumina pallam,lumina palla,lumina pallam,FALSE,
+132,132,deiecta in lumina palla,Vergil,Aeneid,6,862,862,91,,,deiecto lumina vultu,deiecta lumina,deiecto lumina,FALSE,
+133,133,nec Iove maiorem nasci suspirat Achillen.,Ovid,Metamorphoses,11,224,224,,157,,ergo ne quicquam mundus iove maius haberet,ioue maiorem,ioue maius,FALSE,
+133,133,nec ... Achillem,Ovid,Metamorphoses,11,224,224,,157,,ne quicquam iove maius,nec achillem,ne quicquam,FALSE,
+135,135,nudis pariter Galatea lacertis,Ovid,Metamorphoses,1,501,501,92,,,nudos media plus parte lacertos,nudis lacertis,nudos lacertos,TRUE,3
+135,135,nudis pariter Galatea lacertis,Ovid,Metamorphoses,4,522,522,92,,,nudis melicerta lacertis,nudis lacertis,nudis lacertis,TRUE,1
+135,135,nudis pariter Galatea lacertis,Ovid,Metamorphoses,8,227,227,92,,,nudos quatit ille lacertos,nudis lacertis,nudos lacertos,TRUE,2
+135,135,Galatea,Ovid,Metamorphoses,13,738,738,93,,,galatea capillos alibus adloquitur repetens,galatea petens,Galatea referens,TRUE,3
+135,135,Cyclops,Vergil,Aeneid,3,617,617,,157,,immemores socii vasto cyclopis in antro,antra cyclops,cyclopis antro,TRUE,1
+140,140,parte alia,Vergil,Aeneid,1,474,474,95,161,81,parte alia,parte alia,parte alia,FALSE,
+140,140,Atracia ... de virgine,Statius,Thebaid,1,106,106,96,,,atracia arte,atracia uirgine,atracia arte,TRUE,1
+142,142,crateres,Ovid,Metamorphoses,12,236,236,97,163,,antiquus crater,crateres ueterum,antiquus crater,TRUE,0
+142,142,mensaeque,Ovid,Metamorphoses,12,254,254,97,163,,pede convulso mensae acernae,mensaeque araeque,mensae acernae,TRUE,1
+142,142,volant,Ovid,Metamorphoses,12,242,242,97,163,,prima pocula pugna missa volant,uolant poculaque,pocula uolant,TRUE,2
+142,142,crateres mensaeque,Vergil,Aeneid,2,764,764,97,,,mensaeque deorum crateresque auro solidi,crateres mensaeque,mensaeque crateresque,TRUE,1
+142,142,araeque deorum,Ovid,Metamorphoses,12,260,260,97,,,gryneus immanem sustulit aram,araeque deorum,inmanem aram,TRUE,1
+142,142,labor,Vergil,Aeneid,7,248,248,97,,,iliadumque labor vestes,crateres labor,labor uestes,TRUE,0
+142,142,optimus hasta,Vergil,Aeneid,9,40,40,97,,,optimus armis aeneas,optimus hasta,optumus armis,FALSE,
+144,144,ense furens,Statius,Thebaid,5,661,661,97,164,,ense furens,ense furens,ense furens,FALSE,
+144,144,ense furens,Vergil,Aeneid,2,499,499,97,,,furentem caede,ense furens,furentem caede,TRUE,0
+144,144,gravis,Vergil,Aeneid,10,207,207,98,,,it gravis aulestes,fert grauis,it grauis,FALSE,
+144,144,gravis,Vergil,Aeneid,12,458,458,98,,,ferit ense gravem thymbraeus osirim,fert grauis,ferit grauem,TRUE,1
+144,144,gravis,Lucan,Bellum Civile,4,618,618,98,,,colla diu gravibus frustra temptata lacertis,grauis uictorem,colla grauibus,TRUE,1
+146,146,Monychus,Ovid,Metamorphoses,12,499,499,98,165,,monychus exclamat,fert monychus,monychus exclamat,TRUE,0
+146,146,ardenti ... quercu,Ovid,Metamorphoses,12,271,272,,165,,flagrantem torrem,ardenti quercu,flagrantem torrem,TRUE,4
+147,147,nigro ... equo,Ovid,Metamorphoses,12,402,402,100,166,86,totus pice nigrior atra,nigro equo,nigrior atra,FALSE,
+147,147,nigro ... fugit,Ovid,Metamorphoses,12,308,309,,166,86,nesso fuge,nessus fugit,nesso fuge,TRUE,1
+147,147,adclinisque tapetis,Vergil,Aeneid,7,277,277,100,,,pictisque tapetis,adclinisque tapetis,pictisque tapetis,FALSE,
+148,148,vacuo ... auro,Vergil,Aeneid,1,739,739,100,,,pleno auro,uacuo auro,pleno auro,TRUE,2
+151,151,nos animae faciles,Vergil,Aeneid,11,372,372,,169,,nos animae viles,animae faciles,animae uiles,FALSE,
+151,151,nos animae faciles,Lucan,Bellum Civile,4,506,506,,,88,faciles animos,animae faciles,faciles animos,TRUE,0
+163,163,pectora iungens,Ovid,Metamorphoses,2,604,604,108,,,pectore iuncta,pectore iungens,pectore iuncta,FALSE,
+165,165,socium (te) iungere coeptis,Vergil,Aeneid,5,712,712,110,,,socium et coniunge,socium iungere,socium coniunge,TRUE,1
+179,179,cura parentis,Vergil,Aeneid,1,646,646,116,,,cura parentis,cura parentis,cura parentis,FALSE,
+184,184,ducis imperiis,Vergil,Aeneid,9,675,675,120,,,ducis imperio,ducis imperiis,ducis imperio,FALSE,
+184,184,imperiis ... monitique,Vergil,Aeneid,4,282,282,120,179,98,monitu imperioque,imperiis monitique,monitu imperioque,TRUE,0
+184,184,minyae monitu,Vergil,Aeneid,6,533,533,120,,,monitu divom,minyae monitu,an monitu,FALSE,
+184,184,minyae monitu,Vergil,Aeneid,9,501,501,120,,,ilionei monitu,minyae monitu,illionei monitu,FALSE,
+184,184,minyae monitu,Statius,Thebaid,5,555,555,120,,,monitu ducis,minyae monitu,monitu ducis,TRUE,0
+185,185,tento poplite,Statius,Thebaid,9,473,473,,179,,poplite tenso,tento poplite,poplite tenso,TRUE,0
+185,185,puppem umeris subeunt,Vergil,Aeneid,4,599,599,120,,,subisse umeris parentem,umeris subeunt,umeris parentem,TRUE,2
+186,187,clamor ... nauticus,Vergil,Aeneid,3,128,128,120,180,98,nauticus exoritur vario certamine clamor,clamor nauticus,nauticus clamor,TRUE,3
+186,187,clamor ... nauticus,Vergil,Aeneid,5,140,141,120,180,98,clamor nauticus,clamor nauticus,clamor nauticus,FALSE,
+186,187,clamor ... nauticus,Lucan,Bellum Civile,2,688,689,120,180,,clamor nauticus,clamor nauticus,clamor nauticus,FALSE,
+188,188,statuunt aras,Vergil,Aeneid,8,271,271,121,,,aram statuit,statuunt aras,aram statuit,TRUE,1
+188,188,laeti statuunt aras,Vergil,Aeneid,7,147,147,,181,,laeti statuunt aras statuere,laeti statuunt,laeti statuunt,FALSE,
+188,188,rector aquarum,Ovid,Metamorphoses,1,331,331,121,181,,rector pelagi,rector aquarum,rector pelagi,FALSE,
+188,188,rector aquarum,Ovid,Metamorphoses,4,799,799,121,,,pelagi rector,rector aquarum,pelagi rector,TRUE,0
+188,188,rector aquarum,Ovid,Metamorphoses,11,207,207,121,181,,rector maris,rector aquarum,rector maris,FALSE,
+191,191,non illo certior alter,Vergil,Aeneid,6,164,164,123,,,quo non praestantior alter,non alter,non alter,TRUE,1
+191,191,non illo certior alter,Vergil,Aeneid,9,179,180,,,100,quo pulchrior alternon,certior alter,pulchrior alter,FALSE,
+192,192,pinguia ... colla,Vergil,Aeneid,11,740,740,123,,,hostia pinguis,pinguia colla,hostia pinguis,TRUE,0
+192,192,letifera ... bipenni,Vergil,Aeneid,10,169,169,123,,,letifer arcus,letifera bipenni,letifer arcus,FALSE,
+193,193,libans carchesia,Vergil,Aeneid,5,77,77,124,182,,libans carchesia,libans carchesia,libans carchesia,FALSE,
+193,193,aequoreo ... patri,Statius,Thebaid,6,529,529,124,,101,aequoreus pater,aequoreo patri,aequorcus pater,TRUE,1
+193,193,aequoreo ... patri,Ovid,Metamorphoses,12,197,197,124,,,aequorei vim passa dei,aequoreo patri,aequorei passa,TRUE,1
+194,195,spumantia nutu / regna quatis terrasque salo,Vergil,Aeneid,2,209,209,,,101,spumante salo,spumantia salo,spumante salo,FALSE,
+195,195,terrasque ... complecteris,Ovid,Metamorphoses,8,731,731,125,,,complexi terram,terram complecteris,complexi terram,TRUE,0
+196,196,scio me ... unum,Vergil,Aeneid,3,602,602,125,182,,scio me unum,scio me,scio me,FALSE,
+197,197,inlicitas temptare vias,Vergil,Aeneid,8,113,113,,182,,ignotas temptare vias,temptare uias,temptare uias,FALSE,
+198,198,non sponte feror,Vergil,Aeneid,4,361,361,126,184,101,non sponte sequor,sponte feror,sponte sequor,FALSE,
+201,201,in me luctumque meorum,Vergil,Aeneid,8,386,386,129,,,in me excidiumque meorum,luctumque meorum,exscidiumque meorum,FALSE,
+202,202,illum ego ... !,Vergil,Aeneid,1,135,135,129,185,103,quos ego!,illum ego,quos egosed,FALSE,
+202,202,illum ego ... !,Statius,Thebaid,4,518,518,129,185,103,iamque ego vos,illum ego,iamque ego,FALSE,
+202,203,tu tantum ... accipias,Ovid,Metamorphoses,2,745,746,,186,,tu tantum velis,tu tantum,tu tantum,FALSE,
+203,203,pressam regibus,Lucan,Bellum Civile,5,585,585,,186,,caesare pressam,caesare pressam,caesare pressam,FALSE,
+203,203,hoc caput,Vergil,Aeneid,8,570,570,129,,,huic capiti,hoc caput,huic capiti,FALSE,
+203,203,hoc caput,Vergil,Aeneid,9,496,496,129,,,hoc caput,hoc caput,hoc caput,TRUE,1
+204,204,sic fatus,Vergil,Aeneid,2,50,50,130,,,sic fatus,sic fatus,sic fatus,FALSE,
+205,205,luctatus ... ignis,Lucan,Bellum Civile,3,503,503,132,,104,luctetur ignis,luctatus ignis,lentas ignis,FALSE,
+206,206,salientia viscera,Ovid,Metamorphoses,6,390,390,132,,104,salientia viscera,salientia uiscera,salientia uiscera,FALSE,
+206,206,salientia viscera,Statius,Thebaid,4,410,410,132,,,salientibus extis,salientia uiscera,salientibus extis,FALSE,
+206,206,salientia viscera,Statius,Thebaid,8,178,178,132,,104,saliat quod numen in extis,salientia uiscera,saliat extis,TRUE,3
+208,209,vittamque comamque per auras / surgentem laurusque rotat,Lucan,Bellum Civile,5,170,170,,,106,vittasque dei serta erectis comis rotat,uittamque rotat,uittasque rotat,TRUE,11
+208,208,comamque per auras,Ovid,Metamorphoses,11,6,6,,189,106,crine per auras,comamque auras,crine auras,TRUE,1
+209,209,laurusque rotat,Lucan,Bellum Civile,1,566,566,133,,105,crimenque rotantes,laurusque rotat,crinemque rotantes,FALSE,
+209,209,laurusque rotat,Statius,Thebaid,10,173,173,,,105,sanguineosque rotat crines,laurusque rotat,rotat crines,TRUE,0
+209,209,vox reddita,Vergil,Aeneid,3,40,40,133,,,vox reddita,uox reddita,uox reddita,FALSE,
+210,210,vox horrenda,Vergil,Aeneid,9,112,112,133,,,vox horrenda,uox horrenda,uox horrenda,FALSE,
+210,210,tum facta silentia,Vergil,Aeneid,1,730,730,133,190,106,tum facta silentia,facta silentia,facta silentia,FALSE,
+212,213,vocat ... concilium,Vergil,Aeneid,10,2,2,135,191,,conciliumque vocat,uocat concilium,conciliumque uocat,TRUE,0
+212,213,vocat ... concilium,Ovid,Metamorphoses,1,167,167,135,191,,conciliumque vocat,uocat concilium,conciliumque uocat,TRUE,0
+212,213,vocat ... concilium,Statius,Thebaid,5,98,98,135,,,concilium vocat,uocat concilium,concilium uocat,TRUE,0
+215,215,tene ... ne desere,Vergil,Aeneid,10,600,600,136,,,morere et fratrem ne desere,ne desere,ne desere,FALSE,
+215,215,tuque o ... ne desere Pallas,Vergil,Aeneid,6,196,197,,193,,tuque o defice diva parens,tuque o,tuque o,FALSE,
+217,217,accepere mari,Vergil,Aeneid,6,392,392,137,,,accepisse lacu,accepere mari,accepisse lacu,FALSE,
+217,217,expedior,Vergil,Aeneid,2,632,633,,,108,flammam inter et hostes expedior,per expedior,et expedior,TRUE,1
+217,217,per quot discrimina rerum,Vergil,Aeneid,1,204,204,137,193,,per tot discrimina rerum,quot discrimina,tot discrimina,FALSE,
+218,218,harundine crines,Ovid,Metamorphoses,9,3,3,138,,,harundine crines,harundine crines,harundine crines,FALSE,
+218,218,harundine crines,Vergil,Aeneid,8,34,34,138,,,crinis harundo,harundine crines,crinis harundo,TRUE,2
+218,218,harundine crines velat,Vergil,Aeneid,10,205,205,138,,108,velatus harundine,harundine uelat,uelatus harundine,TRUE,0
+219,219,per artus,Statius,Thebaid,9,44,44,138,,,per artus,per artus,per artus,FALSE,
+222,222,tollunt ... hastae,Ovid,Metamorphoses,3,107,107,139,195,,sulcis hastae,tollunt hastae,hastae tegmina,TRUE,0
+224,224,secat ... auras,Vergil,Aeneid,12,267,267,140,,,cornus auras certa secat,secat auras,auras secat,TRUE,1
+225,225,caede madens,Ovid,Metamorphoses,1,149,149,140,197,,caede madentis,caede madens,caede madentis,FALSE,
+225,225,caede madens,Ovid,Metamorphoses,14,199,199,140,197,,caede madentes,caede madens,caede madentes,FALSE,
+225,225,ense ferit,Vergil,Aeneid,6,251,251,140,,,ense ferit,ense ferit,ense ferit,FALSE,
+225,225,ense ferit,Ovid,Metamorphoses,3,119,119,140,,,ense ferit,ense ferit,ense ferit,FALSE,
+225,225,ense ferit,Ovid,Metamorphoses,5,204,204,140,,,ense ferit,ense ferit,ense ferit,FALSE,
+225,225,ense ferit,Ovid,Metamorphoses,6,641,641,140,,,ense ferit,ense ferit,ense ferit,FALSE,
+229,229,horrore comarum,Vergil,Aeneid,4,280,280,142,,,horrore comae,horrore comarum,horrore comae,FALSE,
+229,229,horrore comarum,Statius,Thebaid,8,389,389,142,,,horrore comarum,horrore comarum,horrore comarum,FALSE,
+229,229,horrore comarum,Statius,Thebaid,10,606,606,142,,,horrore comae,horrore comarum,horrore comae,FALSE,
+229,229,horrore comarum,Lucan,Bellum Civile,5,154,154,142,199,,horrore comarum,horrore comarum,horrore comarum,FALSE,
+230,230,plenus ... Phoeboque,Lucan,Bellum Civile,5,186,186,143,,,plena phoebo,plenus phoebo,plena phoebo,TRUE,2
+230,230,plenus ... Phoeboque,Statius,Thebaid,10,624,624,143,,,plenum phoebo,plenus phoebo,plenum phoebo,FALSE,
+232,232,aera pinnis,Lucan,Bellum Civile,1,588,588,,,114,in aere pinnae,aera pinnis,aere pennae,FALSE,
+234,234,augur Apollo,Vergil,Aeneid,4,376,376,144,200,,augur apollo,augur apollo,augur apollo,FALSE,
+237,238,dulces ... amplexus,Vergil,Aeneid,8,568,568,145,201,,dulci amplexu,dulces amplexus,dulci amplexu,FALSE,
+237,238,dulces ... amplexus,Lucan,Bellum Civile,5,793,793,145,201,,amplexu dulci,dulces amplexus,amplexu dulci,TRUE,0
+243,243,vires animosque,Vergil,Aeneid,10,357,357,148,,,animis et viribus,uires animos,animis uiribus,TRUE,1
+245,245,omine dextro,Statius,Thebaid,7,663,663,149,,,omine dextro,omine dextro,omine dextro,FALSE,
+248,248,dubiis ... rebus,Vergil,Aeneid,6,196,196,151,205,,dubiis rebus,dubiis rebus,dubiis rebus,TRUE,2
+248,248,dubiis ... rebus,Vergil,Aeneid,11,445,445,,205,,dubiis rebus,dubiis rebus,dubiis rebus,TRUE,1
+249,249,meminisse iuvet,Vergil,Aeneid,1,203,203,151,205,117,meminisse iuvabit,meminisse iuuet,meminisse iuuabit,FALSE,
+249,249,meminisse iuvet,Statius,Thebaid,1,473,473,,205,,meminisse iuvet,meminisse iuuet,meminisse iuuet,FALSE,
+250,250,ludo ... educere noctem,Statius,Thebaid,2,74,74,,205,,ludo educere noctem,educere noctem,educere noctem,FALSE,
+252,252,molli ... alga,Lucan,Bellum Civile,5,520,520,152,206,118,molli alga,molli alga,molli alga,TRUE,4
+257,257,notas ... voces,Vergil,Aeneid,6,499,499,155,,,notis compellat vocibus,notas uoces,notis uocibus,TRUE,1
+265,265,suspiciensque polum,Vergil,Aeneid,12,196,196,159,210,,suspiciens caelum,suspiciens polum,suspiciens caelum,FALSE,
+266,266,ventos ferentes,Vergil,Aeneid,3,473,473,159,210,122,vento ferenti,uentos ferentes,uento ferenti,TRUE,3
+266,266,ventos ferentes,Vergil,Aeneid,4,430,430,,,122,ventosque ferentes,uentos ferentes,uentosque ferentis,FALSE,
+268,268,lituos et bella,Statius,Thebaid,9,724,724,,,123,lituos proelia,lituos bella,lituos proelia,TRUE,1
+272,272,magna mente,Vergil,Aeneid,6,11,11,161,,,magnam mentem,magna mente,magnum mentem,TRUE,1
+275,275,litore curvo,Vergil,Aeneid,6,4,4,164,,,litora curvae,litore curuo,litora curuae,FALSE,
+277,277,Thracius ... vates,Ovid,Metamorphoses,11,2,2,164,,,threicius vates,thracius uates,threicius uates,FALSE,
+277,278,noctem ... extrahit,Vergil,Aeneid,1,748,748,165,,,noctem trahebat,noctem extrahit,noctem trahebat,TRUE,1
+278,278,extrahit,Lucan,Bellum Civile,4,200,200,,,126,extrahit,noctem extrahit,extrahit insomnes,TRUE,0
+278,278,redimitus tempora,Vergil,Aeneid,3,81,81,165,217,127,redimitus tempora,redimitus tempora,redimitus tempora,FALSE,
+278,278,redimitus tempora,Ovid,Metamorphoses,14,654,654,165,,,redimitus tempora,redimitus tempora,redimitus tempora,FALSE,
+285,285,sestos abydo,Lucan,Bellum Civile,6,55,55,168,,,seston abydo,sestos abydo,seston abydo,FALSE,
+286,286,aevum mansura per omne,Ovid,Metamorphoses,5,227,227,169,220,129,mansura dabo monimenta per aevum,aeuum mansura,mansura aeuum,TRUE,3
+286,286,aevum mansura per omne,Ovid,Metamorphoses,15,621,621,,220,,mansura per aevum,aeuum mansura,mansura aeuum,TRUE,1
+286,286,aevum mansura per omne,Vergil,Aeneid,9,609,609,169,,,omne aevum,aeuum omne,omne aeuum,TRUE,0
+287,287,"deserit, heu! saevae nequiquam erepta novercae",Vergil,Aeneid,3,711,711,169,220,130,deseris heu tantis nequiquam erepte,nequiquam erepta,nequiquam erepte,FALSE,
+287,287,"deserit, heu! saevae nequiquam erepta novercae",Lucan,Bellum Civile,4,637,637,169,220,,saevae sperare novercae,saeuae nouercae,saeuae nouercae,TRUE,1
+288,288,fessis longe petit,Lucan,Bellum Civile,3,537,537,170,,,summis longe petit,longe petit,longe petit,FALSE,
+290,290,unda trahit,Statius,Thebaid,9,297,297,170,,,trahit unda,unda trahit,trahit unda,TRUE,0
+293,293,sparsosque per aequora crines,Ovid,Metamorphoses,3,169,169,171,,,sparsos per colla capillos,sparsosque per,sparsos per,FALSE,
+294,294,ludoque modus,Statius,Thebaid,5,195,195,172,,,ludoque licenti fit modus,ludoque modus,ludoque modus,TRUE,2
+295,295,quibus ordine,Vergil,Aeneid,1,703,703,173,,,quibus ordine,quibus ordine,quibus ordine,FALSE,
+299,299,turbataque pectora mulcet,Vergil,Aeneid,8,29,29,174,,,turbatus pectora,turbata pectora,turbatus pectora,FALSE,
+299,299,turbataque pectora mulcet,Vergil,Aeneid,2,200,200,174,,,pectora turbat,turbata pectora,pectora turbat,TRUE,0
+299,299,turbataque pectora mulcet,Ovid,Metamorphoses,11,411,411,174,,,tubatus pectora,turbata pectora,turbatus pectora,FALSE,
+299,299,turbataque pectora mulcet,Vergil,Aeneid,1,197,197,174,,,pectora mulcet,pectora mulcet,pectora mulcet,FALSE,
+299,299,turbataque pectora mulcet,Vergil,Aeneid,1,153,153,174,,,pectora mulcet,pectora mulcet,pectora mulcet,FALSE,
+300,300,gravi ... somno,Ovid,Metamorphoses,4,784,784,175,224,,gravis somnus,graui somno,grauis somnus,FALSE,
+301,301,fulgens tutela carinae,Lucan,Bellum Civile,3,511,511,176,224,134,fulgens tutela carinas,fulgens tutela,fulgens tutela,FALSE,
+302,302,Dodonida quercum,Ovid,Metamorphoses,13,716,716,176,225,,dodonida quercu,dodonida quercum,dodonida quercu,FALSE,
+302,303,Dodonida quercum / Chaoniique,Lucan,Bellum Civile,3,179,179,176,,,quercusque silentis chaonio,quercum chaoniique,quercusque chaonio,TRUE,1
+305,305,tempus adest,Vergil,Aeneid,12,96,96,177,,,tempus adest,tempus adest,tempus adest,FALSE,
+305,305,tempus adest,Ovid,Metamorphoses,14,808,808,177,,,tempus adest,tempus adest,tempus adest,FALSE,
+305,305,age rumpere moras,Vergil,Aeneid,4,569,569,178,226,136,age rumpe moras,rumpere moras,rumpe moras,FALSE,
+305,305,age rumpere moras,Vergil,Aeneid,9,13,13,178,,136,rumpe moras,rumpere moras,rumpe moras,FALSE,
+305,305,age rumpere moras,Ovid,Metamorphoses,15,583,583,178,,,rumpe moras,rumpere moras,rumpe moras,FALSE,
+305,305,age rumpere moras,Lucan,Bellum Civile,2,525,525,178,,,rumpe moras,rumpere moras,rumpe moras,FALSE,
+305,306,aequore toto / currimus,Vergil,Aeneid,3,191,191,,226,,currimus aequor,aequore currimus,currimus aequor,TRUE,0
+309,309,aequore toto / currimus,Lucan,Bellum Civile,8,585,585,180,,,omine laeto,laeto omine,omine laeto,TRUE,0
+309,309,aequore toto / currimus,Statius,Thebaid,8,708,708,180,,,laetum domino ruit omen,laeto omine,laetum domino,FALSE,
+312,312,discurrunt transtris,Statius,Thebaid,7,455,455,,,138,discurrunt murus,discurrunt transtris,discurrunt muris,FALSE,
+313,313,tonsas in marmore,Vergil,Aeneid,7,28,28,181,229,,in lento luctantur marmore tonsae,tonsas marmore,marmore tonsae,TRUE,0
+316,316,amplexibus haerent,Ovid,Metamorphoses,7,143,143,183,230,,amplexibus haerent,amplexibus haerent,amplexibus haerent,FALSE,
+318,318,femineis ... ululatibus,Vergil,Aeneid,4,667,667,184,230,141,femineo ululatu,femineis ululatibus,femineo ululatu,FALSE,
+318,318,femineis ... ululatibus,Vergil,Aeneid,9,477,477,184,230,,femineo ululatu,femineis ululatibus,femineo ululatu,FALSE,
+320,320,fatur et haec,Lucan,Bellum Civile,2,516,516,186,,,fatur et,fatur et,fatur et,FALSE,
+320,320,fatur et haec,Vergil,Aeneid,5,382,382,,232,,atque ita fatur,fatur et,ita fatur,TRUE,0
+320,320,fatur et haec,Vergil,Aeneid,11,822,822,,232,,atque haec ita fatur,fatur haec,haec fatur,TRUE,1
+320,320,aditure labores,Vergil,Aeneid,1,10,10,186,,,tot adire labores,aditure labores,adire labores,FALSE,
+321,321,animum componere,Lucan,Bellum Civile,9,380,380,187,232,,componite mentes labores,animum componere,componite mentes,TRUE,0
+324,324,trepidis ... matribus,Vergil,Aeneid,7,518,518,187,,,trepidae matres,trepidis matribus,trepidae matres,FALSE,
+325,325,possum equidem lucemque pati longumque timorem,Vergil,Aeneid,8,577,577,188,,,vitam oro patior quemvis durare laborem,lucem pati,uitam patior,TRUE,1
+326,326,fortuna parat,Lucan,Bellum Civile,4,497,497,188,,,exemplum fortuna paras,fortuna parat,fortuna paras,FALSE,
+326,326,fortuna parat,Lucan,Bellum Civile,6,593,593,188,,,fortuna paret,fortuna parat,fortuna paret,FALSE,
+326,326,fortuna parat,Lucan,Bellum Civile,2,68,68,188,,,fata parabant,fortuna parat,fata parabant,FALSE,
+326,326,fortuna parat,Lucan,Bellum Civile,6,783,783,188,,,fata pararent,fortuna parat,fata pararent,FALSE,
+326,326,miserere parentum,Vergil,Aeneid,12,43,43,188,,,miserere parentis,miserere parentum,miserere parentis,FALSE,
+327,327,dum ... dolor,Lucan,Bellum Civile,2,27,27,188,232,143,necdum est ille dolor nec iam metus,dum dolor,necdum dolor,TRUE,2
+327,327,dum ... dolor,Vergil,Aeneid,11,57,57,189,,,ei mihi,ei mihi,ei mihi,FALSE,
+327,327,dum ... dolor,Vergil,Aeneid,2,274,274,189,233,,ei mihi,ei mihi,ei mihi,FALSE,
+328,328,unde ego ... timuissem,Statius,Thebaid,6,142,142,189,233,,unde ego bella tibi thebasque ignara timerem,unde ego,unde ego,FALSE,
+329,329,insomnia,Vergil,Aeneid,4,9,9,190,,,insomnia terrent,saeua insomnia,insomnia terrent,TRUE,0
+329,329,insomnia,Vergil,Aeneid,6,896,896,190,,,insomnia manes,saeua insomnia,insomnia manes,TRUE,0
+330,330,litoris ictus:,Lucan,Bellum Civile,5,551,551,190,234,144,litoris ictus,litoris ictus,litoris ictus,FALSE,
+331,331,pontumque polumque,Statius,Thebaid,11,67,67,191,234,,pontusque polusque,pontumque polumque,pontusque polusque,FALSE,
+332,332,nostris ... serenis,Lucan,Bellum Civile,9,423,423,191,234,,nostris serenis,nostris serenis,nostris serenis,TRUE,3
+333,333,da ... amplexus,Vergil,Aeneid,1,687,687,192,,,dabit amplexus,dabit amplexus,dabit amplexus,FALSE,
+333,333,da ... amplexus,Vergil,Aeneid,8,405,405,192,,,dedit amplexus,dabit amplexus,dedit amplexus,FALSE,
+333,333,da ... amplexus,Ovid,Metamorphoses,11,459,459,192,,,amplexusque dedit,dabit amplexus,amplexusque dedit,TRUE,0
+334,334,dulci ... dextra,Vergil,Aeneid,4,493,493,192,,,dulce caput,dulce caput,dulce caput,FALSE,
+334,334,preme lumina,Vergil,Aeneid,9,486,486,192,,145,nec mater pressive oculos,preme lumina,pressiue oculos,FALSE,
+334,334,preme lumina,Lucan,Bellum Civile,5,280,280,193,,,oculos morti clausuram quaerere dextram,preme lumina,oculos morti,TRUE,0
+334,334,preme lumina,Lucan,Bellum Civile,8,615,615,193,,,lumina pressit,preme lumina,lumina pressit,TRUE,0
+336,336,attollens ... animos,Vergil,Aeneid,12,4,4,193,235,146,attollitque animos,attollens animos,attollitque animos,FALSE,
+336,336,attollens ... animos,Vergil,Aeneid,9,127,127,193,,,ultro animos tollit dictis,attolllens animos,animos tollit,TRUE,0
+336,336,o si mihi,Vergil,Aeneid,8,560,560,194,235,145,o mihi si,o si,o si,TRUE,3
+336,336,o si mihi sanguis / quantus erat cum signiferum cratera minantem,Vergil,Aeneid,2,638,638,,,146,quibus integer aevi sanguis,mihi sanguis,aeui sanguis,FALSE,
+336,336,o si mihi sanguis / quantus erat cum signiferum cratera minantem,Lucan,Bellum Civile,3,624,624,,,146,membraque contendit toto sanguine,mihi sanguis,toto sanguine,TRUE,2
+337,337,cratera minantem,Vergil,Aeneid,10,196,196,194,,,saxumque undis immane minatur,cratera minantem,saxumque minatur,TRUE,2
+337,337,signiferum cratera,Lucan,Bellum Civile,3,558,558,194,,147,signifera puppe,signiferum cratera,signifera puppe,TRUE,1
+337,337,signiferum cratera,Statius,Thebaid,2,564,564,194,236,146,qualis in adversos lapithas erexit inanem magnanimus cratera pholus,signiferum cratera,magnanimus cratera,FALSE,
+338,338,Pholum,Vergil,Aeneid,8,294,294,195,235,146,pholum,pholum manus,pholumque manu,FALSE,
+338,338,Pholum,Ovid,Metamorphoses,12,306,306,195,236,146,pholum dissuaserat,pholum compescuit,Pholus dissuaserat,TRUE,10
+338,338,Pholum,Statius,Thebaid,2,564,564,195,236,146,pholum,cratera pholum,cratera pholus,FALSE,
+338,338,manus haec,Vergil,Aeneid,8,567,567,195,,,haec dextra,manus haec,haec dextra,TRUE,1
+339,339,in aeratis ... puppibus,Vergil,Aeneid,8,675,675,195,236,147,classis aeratas,classis aeratas,classis aeratas,FALSE,
+339,339,in aeratis ... puppibus,Vergil,Aeneid,10,166,166,195,,,aerata tigri,aerata puppibus,massicus aerata,TRUE,0
+339,339,in aeratis ... puppibus,Vergil,Aeneid,10,223,223,195,,,aeratae prorae,aerata puppibus,aeratae prorae,TRUE,3
+339,339,in aeratis ... puppibus,Ovid,Metamorphoses,8,103,103,195,236,,aeratas impelli remige puppes,aeratae puppibus,aeratas puppes,TRUE,2
+340,340,ratem tollere,Lucan,Bellum Civile,3,526,526,196,236,147,remige classis tollitur,ratem tollere,classis tollitur,FALSE,
+341,341,patriae ... preces,Vergil,Aeneid,8,574,574,196,,148,et patrias audite preces,patriae preces,patrias preces,TRUE,1
+341,341,valuere preces,Vergil,Aeneid,11,229,229,196,,,valuisse preces,patriae preces,ualuisse preces,FALSE,
+341,341,valuere preces,Ovid,Metamorphoses,13,89,89,196,,,valuisse preces,patriae preces,ualuere preces,FALSE,
+341,341,auditaque (sunt) ... vota,Vergil,Aeneid,4,612,612,196,,,et nostras audite preces,auditaque uota,audite preces,FALSE,
+343,343,ducere suetus,Vergil,Aeneid,3,451,451,197,,,situs aut iungere,ducere suetus,situs iungere,TRUE,1
+343,343,ducere suetus,Vergil,Aeneid,5,402,402,197,,,suetus ferre,ducere suetus,suetus ferre,TRUE,0
+343,343,ducere suetus,Vergil,Aeneid,5,414,414,197,,,his ego suetus,ego suetus,ego suetus,FALSE,
+344,344,det Iuppiter oro,Vergil,Aeneid,6,76,76,197,,,ipsa canas oro,det oro,canas oro,FALSE,
+344,344,det Iuppiter oro,Vergil,Aeneid,11,442,442,197,,,et vocet oro,det oro,uocet oro,FALSE,
+346,346,umeros ardentem vellere rapto,Vergil,Aeneid,4,262,262,197,,,tyrioque ardebat murice laena,ardentem uellere,ardebat murice,FALSE,
+348,348,conlapsam,Vergil,Aeneid,8,584,584,198,239,,famuli conlapsum in tecta ferebant,conlapsam pectore,conlapsum tecta,TRUE,1
+348,348,conlapsam,Vergil,Aeneid,4,391,391,198,,150,famulae conlapsaque membra,conlapsam pectore,conlapsaque membra,FALSE,
+350,350,et iam finis erat,Vergil,Aeneid,1,223,223,201,242,,et iam finis erat,iam finis,iam finis,FALSE,
+351,351,solverat amplexus,Statius,Thebaid,12,385,385,202,,,iunctoque per ipsum amplexu,soluerat amplexus,iunctoque amplexu,TRUE,2
+353,353,laevum ... pelagus,Vergil,Aeneid,3,562,562,207,,,laevas ad undas,laeuum pelagus,laeuas laeuam,TRUE,4
+353,353,laevum Telamon pelagus tenet,Vergil,Aeneid,5,825,825,207,245,,laeva tenent thetis,laeuum tenet,laeua tenent,FALSE,
+353,353,altior,Vergil,Aeneid,8,162,162,207,,150,cunctis altior ibat,altior cetera,cunctis altior,TRUE,0
+355,355,celer Asterion,Statius,Thebaid,4,121,122,208,245,156,celer ambit asterion,celer asterion,celer asterion,TRUE,1
+355,355,matre cadentem,Statius,Thebaid,1,60,60,208,245,157,de matre cadentem,matre cadentem,matre cadentem,FALSE,
+357,357,segnior Apidani vires ubi sentit Enipeus,Ovid,Metamorphoses,1,578,578,208,246,157,inrequietus enipeus apidanusque senex,apidani enipeus,enipeus apidanusque,TRUE,0
+357,357,segnior Apidani vires ubi sentit Enipeus,Lucan,Bellum Civile,6,373,373,208,246,157,it gurgite rapto apidanus numquamque celer nisi mixtus enipeus,apidani enipeus,Apidanos Enipeus,TRUE,4
+359,359,nobile ... Argos,Vergil,Aeneid,7,563,563,210,,,locus nobilis,nobile argos,locus nobilis,TRUE,5
+359,359,nobile ... Argos,Vergil,Aeneid,8,341,341,210,,,nobile pallanteum,nobile argos,nobile pallanteum,FALSE,
+359,359,nobile ... Argos,Ovid,Metamorphoses,6,416,416,210,,,nobilis aere corinthus,nobile argos,nobilis corinthus,TRUE,1
+359,359,nobile ... Argos,Lucan,Bellum Civile,9,962,962,210,,,graio nobile busto rhoetion,nobile argos,graio nobile,TRUE,0
+359,359,nobile ... Argos,Lucan,Bellum Civile,6,355,355,210,247,158,nobile quondam argos,nobile argos,nobile argos,TRUE,3
+361,361,alitibus,Statius,Thebaid,3,64,64,211,,,mala protinus ales,alitibus turpe,mala ales,TRUE,1
+362,362,Naubolides ... Iphitus,Statius,Thebaid,7,354,354,212,,,iphitus genitor cui nuper ademptus naubolus hippasides,naubolides iphitus,iphitus naubolus,TRUE,6
+362,362,tortas ... in undas,Vergil,Aeneid,3,208,208,212,,160,torquent spumas,torquent spumas,torquent spumas,FALSE,
+362,362,tortas ... in undas,Vergil,Aeneid,4,583,583,212,,,torquent spumas,torquent spumas,torquent spumas,FALSE,
+362,362,consurgit in undas,Vergil,Aeneid,9,749,749,213,,160,consurgere in ensem,consurgit undas,consurgit ensem,TRUE,1
+362,362,consurgit in undas,Vergil,Aeneid,10,90,90,213,,160,consurgere in arma,consurgit in,consurgere in,FALSE,
+362,362,consurgit in undas,Vergil,Aeneid,10,299,299,213,,,consurgere tonsis,consurgit inundas,consurgere tonsis,FALSE,
+362,362,consurgit in undas,Vergil,Aeneid,3,207,207,213,,160,insurgere remis,consurgit undas,remis insurgimus,TRUE,0
+363,363,frangit ... aequor,Lucan,Bellum Civile,1,371,371,213,,,fregit rhenum,frangit aequor,fregit rhenum,TRUE,4
+363,363,frangit ... aequor,Lucan,Bellum Civile,5,645,645,213,,,nescitque magister quam frangat cui cedat aquae,frangit aequor,frangat aquae,TRUE,2
+363,363,frangit ... aequor,Lucan,Bellum Civile,8,374,374,213,,,nec franget nando violenti verticis amnem,frangit aequor,franget amnem,TRUE,3
+366,367,comminus ense / nobilis,Vergil,Aeneid,7,732,732,214,250,,falcati comminus enses,comminus ense,comminus enses,FALSE,
+368,368,ediscere,Vergil,Aeneid,6,755,755,215,,,venientem discere vultus,ediscere uultus,discere uultus,FALSE,
+369,369,valida ... tonsa,Vergil,Aeneid,5,15,15,216,,,validisque incumbere remis,ualida tonsa,ualidisque remis,TRUE,1
+369,369,valida ... tonsa,Vergil,Aeneid,10,294,294,216,,,validis incumbite remis,ualida tonsa,ualidis remis,TRUE,1
+369,369,percusso pectore,Vergil,Aeneid,4,589,589,216,,,pectus percussa,percusso pectore,pectus percussa,TRUE,0
+369,369,percusso pectore,Vergil,Aeneid,11,877,877,216,,,percussae pectora,percusso pectore,percussae pectora,FALSE,
+369,369,percusso pectore,Vergil,Aeneid,12,155,155,216,,,pectus percussit,percusso pectore,pectus percussit,TRUE,0
+369,369,percusso pectore,Lucan,Bellum Civile,3,543,543,216,252,,pectora pulsant,percusso pectore,pectora pulsant,TRUE,0
+370,370,face saeva,Vergil,Aeneid,4,566,566,217,,,saevasque videbis conlucere faces,face saeua,saeuasque faces,TRUE,2
+370,370,face saeva,Ovid,Metamorphoses,10,350,350,217,,,facibus saivis,face saeua,facibus saeuis,FALSE,
+372,372,tortum non a Iove fulmen,Vergil,Aeneid,1,42,42,218,253,165,ipsa iovis rapidum iaculata e nubibus ignem,iouis fulmen,iouis ignem,TRUE,4
+372,372,tortum non a Iove fulmen,Vergil,Aeneid,4,208,208,218,,,genitor cum fulmina torques,tortum fulmen,fulmina torques,TRUE,0
+372,372,tortum non a Iove fulmen,Statius,Thebaid,5,394,394,218,254,,iove tortus ab alto ignis,tortum ioue,ioue tortus,TRUE,0
+375,375,Tegaeo limine ... iuvit,Ovid,Metamorphoses,11,281,281,220,,,petit urbe vel agro se iuvet,limine iuuit,agro iuuet,TRUE,1
+376,376,frater plenior actis,Vergil,Aeneid,7,53,53,,256,,plenis annis,plenior annis,plenis annis,TRUE,1
+382,382,stantes ... magistros,Statius,Thebaid,8,269,269,223,257,,solus stat puppes magister,stantes magistros,stat magister,TRUE,1
+382,382,mille magistros,Vergil,Aeneid,2,198,198,223,257,169,non anni domuere decem non mille carinae,mille magistros,mille carinae,FALSE,
+383,383,Phoebique fides non vana parentis,Vergil,Aeneid,4,12,12,225,,,credo equidem nec vana fides genus esse deorum,fides uana,uana fides,TRUE,0
+384,384,puniceo cui circumfusa cothurno,Vergil,Aeneid,1,337,337,225,,173,purpureoque alte suras vincire cothurno,circumfusa cothurno,uincire cothurno,FALSE,
+384,384,puniceo cui circumfusa cothurno,Statius,Thebaid,4,218,218,,261,,albaque puniceas,puniceo cothurno,albaque puniceas,TRUE,0
+385,385,palla imos ferit alba,Ovid,Metamorphoses,11,165,165,225,,,verrit humum tyrio saturata murice palla,palla alba,lauro palla,TRUE,7
+385,385,palla imos ferit alba,Statius,Thebaid,4,217,217,226,,,cassis oliua albaque,alba cassis,cassis oliua,TRUE,0
+385,385,palla imos ferit alba,Vergil,Aeneid,12,68,68,,,173,mixta rubent ubi lilia multa alba rosa,palla alba,alba rosa,TRUE,0
+386,386,vittataque frontem / cassis,Statius,Thebaid,8,175,175,226,,,et galeae vittatus apex,uittataque cassis,galeae uittatus,TRUE,0
+386,386,vittataque frontem / cassis,Statius,Thebaid,10,755,755,,262,173,frontem cassidis,frontem cassis,frontem cassidis,FALSE,
+389,389,fluctibus obvius Aulon,Vergil,Aeneid,10,693,696,229,,175,obvia ventorum furiis,fluctibus obuius,obuia uentorum,TRUE,0
+389,389,fluctibus obvius Aulon,Statius,Thebaid,9,91,94,229,264,,fluctibus obvia,fluctibus obuius,fluctibus obuia,FALSE,
+391,392,remo ... petis,Vergil,Aeneid,2,25,25,230,,,vento petisse mycenas,remo petis,vento petiisse,FALSE,
+391,392,bis Lemnon visure,Ovid,Metamorphoses,9,232,232,230,265,,regnaque visuras iterum troiana sagittas,lemnon uisure,regnaque uisuras,FALSE,
+395,395,innumeras ... apes,Vergil,Aeneid,11,204,204,231,,,innumeras struxere pyras,innumeras apes,innumeras pyras,TRUE,1
+396,396,fuscare,Lucan,Bellum Civile,4,66,66,232,,,caeli fuscator eoi,fuscat diem,fuscator eoi,FALSE,
+396,397,dum plenas nectare cellas pandit,Vergil,Aeneid,1,433,433,232,267,,liquido distendunt nectare cellas,nectare cellas,nectare cellas,FALSE,
+397,397,in dulcem ... Hymetton,Vergil,Aeneid,10,782,782,232,,,dulcis moriens reminiscitur argos,dulcem hymetton,dulcis moriens,FALSE,
+399,399,vacua,Statius,Thebaid,10,86,86,233,269,,vacuum in montem,uacua arbore,uacuum montem,TRUE,1
+399,399,lapsus ab,Vergil,Aeneid,5,86,86,234,,,lapsus per aras,lapsus ab,lapsusque per,FALSE,
+403,403,fretus soceris,Vergil,Aeneid,2,457,457,237,,169,ad soceros,fretus soceris,ad soceros,FALSE,
+403,403,fretus soceris,Ovid,Metamorphoses,3,132,132,237,,,soceri tibi marsque venusque,soceris diua,soceri uenusque,TRUE,2
+403,403,coniuge ... diva,Ovid,Metamorphoses,11,220,220,237,,,coniunx dea,coniunx dea,coniunx dea,FALSE,
+403,404,nec ... defuit,Vergil,Aeneid,7,678,678,237,259,,nec defuit,nec defuit,nec defuit,TRUE,2
+403,404,nec ... defuit,Ovid,Metamorphoses,7,271,271,,259,,nec defuit,nec defuit,nec defuit,FALSE,
+407,407,linquit ... in,Vergil,Aeneid,2,596,596,239,,,ubi liqueris,linquit in,ubi liqueris,TRUE,3
+407,407,Chironis in antro,Ovid,Metamorphoses,2,630,630,239,260,,chironis in antrum,chironis antro,chironis antrum,TRUE,1
+409,409,fila lyrae,Ovid,Metamorphoses,5,118,118,239,,,fila lyrae,fila lyrae,fila lyrae,FALSE,
+409,409,fila lyrae,Ovid,Metamorphoses,10,89,89,239,,,fila sonantia,fila sonantia,fila sonantia,FALSE,
+412,412,inmittere ... crines,Vergil,Aeneid,3,593,593,237,,,inmissaque barba,inmissus crines,inmissaque barba,FALSE,
+412,412,inmittere ... crines,Vergil,Aeneid,4,509,509,237,,,crinis effusa,inmissus crines,crines effusa,TRUE,0
+412,412,inmittere ... crines,Ovid,Metamorphoses,7,183,183,237,,,nudos umeris infusa capillos,inmissus crines,nudos umeris,FALSE,
+414,414,plena ... rege maris: plenus,Ovid,Metamorphoses,10,469,469,241,,,plena patris thalamis excedit,plena tulit,plena patris,FALSE,
+414,414,plena ... rege maris: plenus,Vergil,Aeneid,12,847,847,,,181,tulit partu,plena tulit,tulit partu,TRUE,0
+414,414,in aequor,Vergil,Aeneid,10,451,451,241,,,in aequor,in aequor,in aequor,FALSE,
+414,414,in aequor,Vergil,Aeneid,10,693,693,241,,,in aequor,in aequor,in aequor,FALSE,
+414,414,in aequor,Lucan,Bellum Civile,2,213,213,241,,,in aequor,in aequor,in aequor,FALSE,
+414,414,in aequor,Lucan,Bellum Civile,4,225,225,241,,,in aequor,in aequor,in aequor,FALSE,
+414,414,in aequor,Lucan,Bellum Civile,8,34,34,241,,,in aequor,in aequor,in aequor,FALSE,
+414,414,in aequor,Lucan,Bellum Civile,9,1011,1011,241,,,in aequor,in aequor,in aequor,FALSE,
+415,415,proles Neptunia,Vergil,Aeneid,7,691,691,242,,,neptunia proles,neptunia proles,neptunia proles,FALSE,
+415,415,proles Neptunia,Vergil,Aeneid,9,523,523,242,,,neptunia proles,neptunia proles,neptunia proles,FALSE,
+415,415,proles Neptunia,Vergil,Aeneid,10,353,353,242,,,neptunia proles,neptunia proles,neptunia proles,FALSE,
+415,415,proles Neptunia,Vergil,Aeneid,12,128,128,242,,,neptunia proles,neptunia proles,neptunia proles,FALSE,
+417,417,clausis ... antris,Vergil,Aeneid,1,52,52,242,,,vasto antro,clausis antris,uasto antro,TRUE,2
+417,417,clausis ... antris,Vergil,Aeneid,1,56,56,242,,,circum claustra,e clausis,circum claustra,FALSE,
+417,417,clausis ... antris,Vergil,Aeneid,1,141,141,242,,,clauso carcere,clausis antris,clauso carcere,TRUE,1
+418,418,non metuat,Lucan,Bellum Civile,6,650,650,242,,,quo non metuant emittere manes tartarei reges,non metuat,non metuant,FALSE,
+418,418,regna ratis,Lucan,Bellum Civile,5,515,515,242,,,rectorem dominumque navis,regna ratis,rectorem ratis,TRUE,1
+420,421,plumbo / terga,Vergil,Aeneid,5,405,405,244,274,,terga boum plumbo,plumbo terga,terga plumbo,TRUE,1
+421,422,bracchia ventos spargat,Vergil,Aeneid,12,50,50,246,,,tela spargimus,bracchia spargat,tela spargimus,TRUE,5
+422,422,Pagaseia puppis,Ovid,Metamorphoses,7,1,1,246,275,,pagasaea puppe,pagaseia puppis,pagasaea puppe,FALSE,
+422,422,Pagaseia puppis,Lucan,Bellum Civile,2,715,715,246,275,,pagasaea ratis,pagaseia puppis,pagasaea ratis,FALSE,
+422,422,Pagaseia puppis,Ovid,Metamorphoses,13,24,24,246,275,,pagasaea colcha carina,pagaseia puppis,pagasaea colcha,FALSE,
+422,423,puppis ... spectet,Statius,Thebaid,2,194,194,246,,,prospectat amicam puppis humum,puppis spectet,prospectet puppis,TRUE,1
+423,423,celebrantem litora ludo,Vergil,Aeneid,3,280,280,247,275,184,celebramus litora ludis,celebrantem litora,celebramus litora,FALSE,
+424,424,Thessalico ... freno,Lucan,Bellum Civile,6,397,397,247,276,185,thessalicus fraenosque,thessalico freno,thessalicus fraenosque,TRUE,7
+430,430,molli bis fuderat auro,Vergil,Aeneid,10,138,138,251,278,187,molli subnectens circulus auro,molli auro,molli auro,TRUE,2
+431,431,quemque suus,Ovid,Metamorphoses,4,80,80,251,,,quisque suae,quemque suus,quisque suae,FALSE,
+433,433,fibula vestes,Vergil,Aeneid,4,139,139,253,,,fibula vestem,fibula uestes,fibula uestem,FALSE,
+433,433,fibula vestes,Ovid,Metamorphoses,8,318,318,253,,,fibula vestem,fibula uestes,fibula uestem,FALSE,
+434,434,ostenditque umeros fortes,Vergil,Aeneid,5,376,376,253,279,188,ostenditque umeros latos,ostenditque umeros,ostenditque umeros,FALSE,
+435,435,"Herculeis aequum, Meleagre, lacertis",Statius,Thebaid,6,893,893,254,279,,herculeis lacertis,herculeis lacertis,herculeis lacertis,TRUE,3
+435,435,"Herculeis aequum, Meleagre, lacertis",Ovid,Metamorphoses,15,229,229,254,,,herculeis similes fluidos pendere lacertos,herculeis lacertis,herculeis lacertos,TRUE,3
+436,436,proles Cyllenia,Vergil,Aeneid,4,258,258,255,280,,cyllenia proles,proles cyllenia,cyllenia proles,TRUE,0
+438,438,medios ... per hostes,Vergil,Aeneid,2,377,377,255,,,medios in hostis,medios hostes,medios hostis,TRUE,2
+447,447,a quotiens,Lucan,Bellum Civile,5,615,615,261,,,o quotiens,a quotiens,ah quoties,FALSE,
+449,449,pingui,Vergil,Aeneid,9,31,31,,,191,pingui flumine nilus,pingui boebeide,pingui flumine,FALSE,
+450,450,Nerea,Ovid,Metamorphoses,1,187,187,262,,,nereus circumsonat,insurgit nerea,nereus circumsonat,TRUE,0
+450,450,Nerea,Lucan,Bellum Civile,2,713,713,262,,,nereus,remo nerea,sanguine nereus,FALSE,
+453,453,aurea fluctu,Vergil,Aeneid,8,672,672,264,,,aurea fluctu,aurea fluctu,aurea fluctu,TRUE,1
+456,456,ostrifero,Lucan,Bellum Civile,9,959,959,266,287,,ostriferam,ostrifero neptune,pontus ostriferam,TRUE,1
+460,460,petit iam caerula remo,Lucan,Bellum Civile,3,537,537,269,289,,petit aequora remis,petit remo,petit remis,TRUE,1
+462,462,in usus,Vergil,Aeneid,4,647,647,270,,,in usus,in usus,in usus,FALSE,
+463,463,rumpere terras,Ovid,Metamorphoses,5,406,406,271,,,rupta ferventia terra,rumpere terras,rupta terra,TRUE,1
+464,464,Styga transmisso tacitam,Vergil,Aeneid,6,265,265,271,290,,loca nocte tacentia late,styga tacitam,loca nocte,FALSE,
+464,464,Styga transmisso tacitam,Lucan,Bellum Civile,1,455,455,271,290,,tacitas erebi sedes,styga tacitam,tacitas erebi,TRUE,0
+465,465,fluctibus e mediis,Vergil,Aeneid,10,683,683,271,290,,fluctibus an iaciat mediis,fluctibus mediis,fluctibus mediis,TRUE,2
+467,467,transibit nubila,Statius,Thebaid,6,928,928,272,291,,nubila transeat,transibit nubila,nubila transeat,TRUE,0
+468,468,quin et,Vergil,Aeneid,7,750,750,,291,,quin et,quin et,quin et,FALSE,
+469,469,ceruchos,Lucan,Bellum Civile,8,177,177,273,292,,ceruchis,tremulos ceruchos,ursa ceruchis,FALSE,
+469,469,ceruchos,Lucan,Bellum Civile,10,495,495,273,,,ceruchi,tremulos ceruchos,arsere ceruchi,FALSE,
+469,469,ut tremulos,Lucan,Bellum Civile,2,621,621,273,292,,ut tremulo,ut tremulos,ut tremulo,FALSE,
+470,470,nec vero,Vergil,Aeneid,6,392,392,274,,,nec vero,nec uero,nec uero,FALSE,
+471,471,pontum remo subigit,Vergil,Aeneid,6,302,302,274,,,conto subigit,pontem subigit,conto subigit,FALSE,
+472,472,summo passim ne gurgite,Vergil,Aeneid,9,23,23,274,,,summoque hausit de gurgite,summo gurgite,summoque gurgite,TRUE,2
+472,472,summo passim ne gurgite,Ovid,Metamorphoses,6,372,372,274,,,summo modo gurgite,summo gurgite,summo gurgite,TRUE,1
+472,472,summo passim ne gurgite,Lucan,Bellum Civile,3,669,669,274,,,summo gurgite,summo gurgite,summo gurgite,FALSE,
+474,474,fessum ... aevo,Vergil,Aeneid,2,596,596,275,,,fessus aetate,fessum aeuo,fessum aetate,FALSE,
+474,474,fessum ... aevo,Ovid,Metamorphoses,7,163,163,275,294,,fessusque senilibus annis,fessum aeuo,fessusque annis,TRUE,1
+474,474,fessum ... aevo,Ovid,Metamorphoses,9,440,440,275,,,fessos rhadamanthon et aeacon annis,fessum aeuo,fessos annis,TRUE,3
+476,476,magnorumque viros qui laudibus urat avorum,Vergil,Aeneid,12,649,649,276,295,,magnorum haud umquam indignus avorum,magnorumque auorum,magnorum auorum,TRUE,3
+477,477,tibi cura,Lucan,Bellum Civile,7,217,217,276,,,tibi cura,tibi cura,tibi cura,FALSE,
+481,481,pendebat ab astro,Vergil,Aeneid,4,79,79,279,,200,pendetque iterum narrantis ab ore,pendebat ab,pendetque ab,TRUE,2
+483,483,caelo duce,Lucan,Bellum Civile,9,847,847,280,297,201,caelo duce,caelo duce,coelo duce,FALSE,
+484,484,per obliqui rapidum compendia montis,Ovid,Metamorphoses,3,234,234,281,298,,per compendia montis,compendia montis,compendia montis,FALSE,
+485,485,laetusque dolis,Vergil,Aeneid,8,393,393,282,298,,laeta dolis,laetusque dolis,laeta dolis,FALSE,
+485,486,Acastum / horrentem iaculis,Ovid,Metamorphoses,8,306,306,,,202,iaculoque insignis acastus,acastum iaculis,iaculoque acastus,TRUE,1
+486,486,horrentem iaculis,Vergil,Aeneid,5,37,37,282,,201,horridus in iaculis,horrentem iaculis,horridus iaculis,TRUE,1
+486,486,horrentem iaculis,Ovid,Metamorphoses,8,285,285,,298,,hastilibus horrent,horrentem iaculis,hastilibus horrent,TRUE,0
+486,486,parmae luce coruscum,Vergil,Aeneid,2,470,470,282,298,202,luce coruscus aena,luce coruscum,luce coruscus,FALSE,
+487,488,se mediae per scuta virosque carinae intulit,Statius,Thebaid,1,201,201,282,,,mediis sese arduus infert,se mediae,mediis sese,TRUE,0
+487,487,scuta virosque,Vergil,Aeneid,1,1,1,283,,,arma virumque,scuta uirosque,arma uirumque,FALSE,
+488,488,retinacula ferro,Vergil,Aeneid,4,580,580,,299,202,retinacula ferro,retinacula ferro,retinacula ferro,FALSE,
+488,489,ferro / abscidit,Lucan,Bellum Civile,3,33,33,283,,,abscidis frustra ferro,ferro abscidit,abscidis ferro,TRUE,1
+490,490,teneras compressus pectore tigres,Vergil,Aeneid,7,518,518,,301,,trepidae matres pressere ad pectora,compressus pectore,pressere pectora,TRUE,1
+491,491,urget equum,Statius,Thebaid,11,452,452,285,,,saevis calcaribus urguent,urget equum,calcaribus urgent,TRUE,0
+491,491,compressus pectore,Statius,Thebaid,1,122,122,285,,,gremioque palaemona pressit,compressus pectore,gremioque pressit,TRUE,1
+493,493,Amano,Lucan,Bellum Civile,3,244,244,286,,206,amani,uenatur amano,cultor amani,FALSE,
+494,494,pariter propulsa ratis,Vergil,Aeneid,3,560,560,287,301,,pariterque insurgite remis,pariter ratis,pariterque remis,TRUE,1
+494,494,stant litore matres,Vergil,Aeneid,3,277,277,287,,,stant litore puppes,stant litore,stant litore,FALSE,
+494,494,stant litore matres,Vergil,Aeneid,8,592,592,287,,,stant pavidae in muris matres,stant matres,stant matres,TRUE,3
+495,496,percussaque sole sequuntur scuta,Lucan,Bellum Civile,2,482,482,287,302,,percussis sole corusco conspexit teils,percussaque sole,percussis sole,FALSE,
+495,495,oculis..sequuntur,Vergil,Aeneid,8,592,592,287,302,,oculisque sequuntur,oculis sequuntur,oculisque sequuntur,FALSE,
+495,495,oculis..sequuntur,Statius,Thebaid,5,483,483,287,,207,prosequimur uisu,oculis sequuntur,prosequimur uisu,TRUE,0
+496,496,scuta virum,Vergil,Aeneid,8,92,92,,,207,scuta virum,scuta uirum,scuta uirum,FALSE,
+497,497,immensusque ratem spectantibus abstulit aer,Ovid,Metamorphoses,2,157,157,288,,207,immensi copia caeli,immensusque aer,inmensi caeli,TRUE,1
+498,498,siderea tunc arce pater ...,Vergil,Aeneid,10,2,3,291,,208,pater atque hominum rex sideream in sedem,siderea pater,pater sideream,TRUE,3
+498,498,siderea tunc arce pater ...,Ovid,Metamorphoses,1,163,163,291,,,pater ut summa vidit saturnius arce,arce pater,pater arce,TRUE,4
+499,499,tantumque operis consurgere molem,Vergil,Aeneid,1,33,33,291,303,,tantae molis,tantumque molem,tantae molis,FALSE,
+501,501,una omnes,Vergil,Aeneid,5,830,830,294,,,una omnes,una omnes,una omnes,FALSE,
+501,501,una omnes,Vergil,Aeneid,8,689,689,294,,,una omnes,una omnes,una omnes,FALSE,
+504,504,tales fundit Sol pectore voces,Vergil,Aeneid,5,482,482,297,306,209,tales effundit pectore voces,fundit pectore,effundit pectore,FALSE,
+504,504,tales fundit Sol pectore voces,Vergil,Aeneid,8,70,70,297,,,tales effundit ad aethera voces,fundit uoces,effundit uoces,TRUE,2
+504,504,tales fundit Sol pectore voces,Vergil,Aeneid,6,55,55,298,,,funditque preces rex pectore ab imo,fundit pectore,funditque pectore,TRUE,2
+504,504,tales fundit Sol pectore voces,Vergil,Aeneid,11,482,482,298,,,et maestas alto fundunt de limine voces,fundit uoces,fundunt uoces,TRUE,2
+504,504,tales fundit Sol pectore voces,Ovid,Metamorphoses,15,657,657,,306,,tales emittere pectore voces,pectore uoces,pectore uoces,FALSE,
+504,504,tales fundit Sol pectore voces,Lucan,Bellum Civile,9,255,255,,,210,sacro de pectore voces,pectore uoces,pectore uoces,FALSE,
+505,505,summe sator,Statius,Thebaid,3,488,488,299,306,,summe sator,summe sator,summe sator,FALSE,
+505,505,volventibus annis,Vergil,Aeneid,1,234,234,299,306,210,volventibus annis,uoluentibus annis,uoluentibus annis,FALSE,
+506,506,peragit reficitque vices,Ovid,Metamorphoses,4,218,218,299,306,210,noxque vicem peragit,peragit uices,uicem peragit,TRUE,0
+507,507,nutuque secundo,Ovid,Metamorphoses,7,619,619,300,,,tonitruque secundo,nutuque secundo,tonitruque secundo,FALSE,
+508,508,rumpere questus,Vergil,Aeneid,4,553,553,301,306,210,rumpebat pectore questus,rumpere questus,rumpebat questus,TRUE,1
+508,508,rumpere questus,Vergil,Aeneid,2,129,129,301,,210,rumpere vocem,rumpere questus,rumpit uocem,FALSE,
+508,508,rumpere questus,Vergil,Aeneid,3,246,246,301,,210,rumpitque hanc pectore vocem,rumpere questus,rumpitque uocem,TRUE,2
+509,509,hoc metuens,Vergil,Aeneid,1,61,61,,,211,hoc metuens,hoc metuens,hoc metuens,FALSE,
+511,511,divitis arva plagae teneant uberrima,Vergil,Aeneid,7,262,262,302,,,divitis uber agri,diuitis uberrima,diuitis uber,FALSE,
+512,513,saevo quae premis arva gelu,Vergil,Aeneid,9,604,604,302,,,saevoque gelu duramus et undis,saeuo gelu,saeuoque gelu,FALSE,
+513,513,gelu strictosque,Lucan,Bellum Civile,4,652,652,303,,,stricta gelu,gelu strictosque,stricta gelu,TRUE,0
+514,514,sine honore,Vergil,Aeneid,5,272,272,303,,,sine honore,sine honore,sine honore,FALSE,
+515,515,nescia regum,Vergil,Aeneid,12,227,227,304,,,nescia rerum,nescia regum,nescia rerum,FALSE,
+520,520,vi potitur,Vergil,Aeneid,3,56,56,308,310,,ui potitur,ui potitur,ui potitur,FALSE,
+520,520,agmina iungere,Vergil,Aeneid,2,267,267,308,,,agmina conscia iungunt,agmina iungere,agmina iungunt,TRUE,1
+524,524,generos vocat,Vergil,Aeneid,12,658,658,309,311,214,quos generos vocet,generos uocat,generos uocet,FALSE,
+524,524,generos vocat,Vergil,Aeneid,7,98,98,,311,,externi venient generi qui sanguine nostrum,generos uocat,uenient generi,TRUE,0
+524,524,generos vocat,Vergil,Aeneid,11,105,105,,311,214,socerisque vocatis,generos uocat,socerisque uocatis,FALSE,
+525,525,flecte ratem motusque,Vergil,Aeneid,5,28,28,,311,,flecte viam,flecte ratem,flecte uiam,FALSE,
+526,527,conscia luctus silva,Ovid,Metamorphoses,2,438,438,310,312,,conscia silva,conscia silua,conscia silua,FALSE,
+528,528,quassatque caput,Vergil,Aeneid,7,292,292,310,313,216,quassans caput,quassatque caput,quassans caput,FALSE,
+531,531,tum genitor,Vergil,Aeneid,3,102,102,314,315,,tum genitor,tum genitor,tum genitor,FALSE,
+531,531,tum genitor,Vergil,Aeneid,10,466,466,314,315,,tum genitor,tum genitor,tum genitor,FALSE,
+531,531,tum genitor,Vergil,Aeneid,10,100,100,314,,,tum pater omnipotens,tum genitor,tum pater,FALSE,
+531,531,tum genitor,Vergil,Aeneid,7,770,770,314,,,tum pater omnipotens,tum genitor,tum pater,FALSE,
+531,531,tum genitor,Ovid,Metamorphoses,1,154,154,314,,,tum pater omnipotens,tum genitor,tum pater,FALSE,
+531,531,vetera haec nobis et condita,Vergil,Aeneid,10,35,35,314,,,nova condere fata,uetera condita,noua condere,FALSE,
+532,532,ordine cuncta suo,Vergil,Aeneid,11,241,241,314,,,ordine cuncta suo,ordine cuncta,ordine cuncta,FALSE,
+533,533,fixa manent,Statius,Thebaid,3,242,242,314,,,manet haec ab origine mundi fixa dies bello,fixa manent,manet fixa,TRUE,4
+533,534,sanguis in ullis noster,Vergil,Aeneid,6,835,835,314,,,sanguis meus,sanguis noster,sanguis meus,FALSE,
+534,534,cum fata darem,Lucan,Bellum Civile,4,48,48,315,,,fata dedit,fata darem,fata dedit,FALSE,
+534,534,cum fata darem,Vergil,Aeneid,1,382,382,315,,,data fata,fata darem,data fata,TRUE,0
+536,536,atque ego,Ovid,Metamorphoses,13,21,21,316,,,atque ego,atque ego,atque ego,FALSE,
+536,536,curarum repetam decreta mearum,Lucan,Bellum Civile,8,279,279,316,315,218,curarum vobis arcana mearum,curarum mearum,curarum mearum,TRUE,2
+539,539,floretque viris,Vergil,Aeneid,7,644,644,318,316,218,floruerit terra alma viris,floret uiris,alma uiris,FALSE,
+540,540,nomenque capessere,Lucan,Bellum Civile,9,597,597,318,,,nomen merere,nomen capessere,meruit nomen,TRUE,2
+540,540,nomenque capessere,Lucan,Bellum Civile,10,544,544,318,,,nomen merere,nomen capessere,meritum nomina,TRUE,1
+542,542,summa dies,Vergil,Aeneid,2,324,324,319,317,218,summa dies,summa dies,summa dies,FALSE,
+542,542,summa dies,Lucan,Bellum Civile,7,195,195,319,,218,summa dies,summa dies,summa dies,FALSE,
+542,542,Asiamque labantem,Ovid,Metamorphoses,15,437,437,319,,,troiana labaret,troiana labaret,troiana labaret,FALSE,
+544,544,animae parentum,Ovid,Metamorphoses,15,459,459,320,,,animas habuisse parentum,animae parentum,animas parentum,TRUE,1
+544,544,animae parentum,Vergil,Aeneid,5,81,81,320,,,animaeque umbraeque paternae,animae parentum,animaeque paternae,TRUE,1
+545,545,via facta per undas,Vergil,Aeneid,9,356,356,321,,,via facta per hostis,uia facta,uia facta,FALSE,
+546,546,Bellona,Vergil,Aeneid,7,319,319,,318,,bellona,facta bellona,et bellona,FALSE,
+546,546,Bellona,Vergil,Aeneid,8,703,703,,318,,bellona,uia bellona,sequitur bellona,FALSE,
+546,546,Bellona,Lucan,Bellum Civile,7,567,568,,318,,bellona,uia bellona,vagatur Bellone,TRUE,3
+547,547,indignanda manent,Lucan,Bellum Civile,2,223,223,,318,,patienda manent,indignanda manent,patienda manent,FALSE,
+548,549,menti fixa meae,Vergil,Aeneid,3,250,250,322,,,animis mea figite,fixa meae,mea figite,TRUE,0
+548,549,menti fixa meae,Vergil,Aeneid,4,15,15,322,,,animo fixum,fixa meae,animo fixum,TRUE,0
+548,549,menti fixa meae,Statius,Thebaid,6,394,394,322,,,fixum cordi,menti fixa,fixum cordi,TRUE,0
+549,549,pastor ab Ida,Vergil,Aeneid,7,363,363,322,319,,pastor phyrigius,pastor ida,pastor phrygius,TRUE,2
+549,549,pastor ab Ida,Ovid,Metamorphoses,4,276,276,322,,,pastor idaeus pastoris amoris dapnidis idaei,pastor ida,pastoris Idaei,TRUE,2
+551,551,"effusa procorum / bella, quot ad Troiam flentes hiberna Mycenas",Vergil,Aeneid,7,222,222,,320,222,effusa mycenis,effusa mycenas,effusa mycenis,FALSE,
+554,554,Asiam concedere fatis,Vergil,Aeneid,7,224,224,,320,,asiae fatis concurrit orbis,asiam fatis,asiae fatis,FALSE,
+554,554,Asiam concedere fatis,Lucan,Bellum Civile,8,575,575,325,,,cedit fatis,concedere fatis,cedit fatis,FALSE,
+554,554,magnis Asiam concedere fatis,Lucan,Bellum Civile,5,189,189,325,,,fata diu quaerens tam magna,magnis fatis,fata magna,TRUE,3
+554,554,magnis Asiam concedere fatis,Statius,Thebaid,5,534,534,325,,,magni pondera fati,magnis fatis,magni fati,TRUE,1
+555,555,fovebo,Vergil,Aeneid,1,281,281,326,321,,fovebit,gentesque fouebo,mecumque fouebit,FALSE,
+555,555,fovebo,Vergil,Aeneid,1,18,18,326,,,fovetque,gentesque fouebo,tenditque fouetque,FALSE,
+557,557,claustra maris,Vergil,Aeneid,3,411,411,327,,,claustra pelori,claustra maris,claustra pelori,FALSE,
+557,557,claustra maris,Lucan,Bellum Civile,2,684,684,,,223,maris per claustra,claustra maris,maris claustra,TRUE,1
+557,557,claustra maris,Lucan,Bellum Civile,10,509,509,,,223,claustrum pelagi,claustra maris,claustrum pelagi,FALSE,
+557,557,spes et metus,Vergil,Aeneid,1,218,218,327,321,,spemque metumque,spes metus,spemque metumque,FALSE,
+557,557,spes et metus,Lucan,Bellum Civile,6,419,419,,321,,spemque metumque,spes metus,spemque metumque,FALSE,
+557,557,metus omnibus esto,Vergil,Aeneid,11,14,14,327,,,timor omnis abesto,metus esto,timor abesto,TRUE,1
+558,558,arbiter,Statius,Thebaid,4,751,751,328,,,ipse deorum arbiter,arbiter ipse,ipse arbiter,TRUE,1
+559,560,populis longissim cunctis / regna,Vergil,Aeneid,6,851,851,,,223,tu regere imperio populos romane memento,populis regna,regere populos,TRUE,1
+560,560,datas ubi certus habenas,Vergil,Aeneid,1,63,63,328,,,dare iussus habenas,datas habenas,dare habenas,TRUE,1
+560,560,datas ubi certus habenas,Vergil,Aeneid,11,623,623,328,,,datis referuntur habenis,datas habenas,datis habenis,TRUE,1
+561,561,oculos Aegaea refert,Vergil,Aeneid,12,657,657,329,322,,oculos referunt,oculos refert,oculos referunt,FALSE,
+563,563,primum regia,Vergil,Aeneid,11,238,238,,,225,primus sceptris,primum regia,primus sceptris,FALSE,
+564,564,post bella trucis Phlegraeque,Statius,Thebaid,10,909,909,331,,,post proelia phlegrae,bella phlegraeque,proelia phlegrae,FALSE,
+565,565,durum vobis iter,Vergil,Aeneid,6,688,688,332,324,,iter durum,durum iter,iter durum,TRUE,0
+565,565,durum vobis iter,Lucan,Bellum Civile,9,385,385,332,,,durum iter,durum iter,durum iter,FALSE,
+565,565,durum vobis iter,Statius,Thebaid,2,375,375,332,,,iter siluis ac litore durum,durum iter,iter durum,TRUE,3
+566,566,"sic ecce meus, sic orbe",Vergil,Aeneid,4,660,660,332,,,sic sic iuvat,sic sic,sic sic,FALSE,
+569,569,per inane,Vergil,Aeneid,12,354,354,335,,,per inane,per inane,per inane,FALSE,
+569,569,per inane,Vergil,Aeneid,12,906,906,335,,,per inane,per inane,per inane,FALSE,
+569,569,per inane,Ovid,Metamorphoses,2,506,506,335,,,per inania,per inane,per inania,FALSE,
+569,569,per inane,Ovid,Metamorphoses,4,718,718,335,,,per inane,per inane,per inane,FALSE,
+569,569,per inane,Ovid,Metamorphoses,6,230,230,335,326,,per inane,per inane,per inane,FALSE,
+569,569,per inane,Statius,Thebaid,9,832,832,,326,,per ina,per inane,per inane,FALSE,
+569,569,per inane facem,Lucan,Bellum Civile,1,528,528,335,326,227,per inane faces,per inane,per inane,FALSE,
+569,569,per inane facem,Lucan,Bellum Civile,9,473,473,,,227,per inania,per inane,per inania,FALSE,
+570,570,in bifidum discessit,Lucan,Bellum Civile,6,360,360,336,,,discessit in amnes,in discessit,discessit in,TRUE,0
+572,572,lumenque innoxia fundit,Vergil,Aeneid,2,683,683,336,327,,fundere lumen apex tactuque innoxia mollis,lumenque fundit,fundere lumen,TRUE,0
+572,573,lumenque innoxia fundit purpureum,Vergil,Aeneid,1,590,590,337,,,lumenque iuventae purpureum,lumen purpureum,lumenque purpureum,TRUE,1
+572,573,lumenque innoxia fundit purpureum,Vergil,Aeneid,6,640,640,337,,,lumine vestit purpureo,lumen purpureum,lumine purpureo,TRUE,1
+573,573,miseris olim implorabile nautis,Lucan,Bellum Civile,8,173,173,337,328,227,miseros fallentia nautas,miseris nautis,miseros nautas,TRUE,1
+573,573,miseris olim implorabile nautis,Lucan,Bellum Civile,9,343,343,337,,,miseri nautae,miseris nautis,miseri nautae,FALSE,
+573,573,miseris olim implorabile nautis,Statius,Thebaid,3,323,323,337,328,,miseros inuoluere nautas,miseris nautis,miseros nautas,TRUE,1
+574,574,medio saevus permissa profundo,Ovid,Metamorphoses,4,537,537,343,,,medio quondam concreta profundo,medio profundo,medio profundo,TRUE,2
+574,574,medio saevus permissa profundo,Lucan,Bellum Civile,3,2,2,343,,,mediumque rates mouere profundum,medio profundo,rates profundum,TRUE,1
+574,574,medio saevus permissa profundo,Statius,Thebaid,2,42,42,343,,,medio natat umbra profundo,medio profundo,medio profundo,TRUE,2
+575,575,Pangaea,Lucan,Bellum Civile,1,679,679,344,,,pangaea,pangaea speculatus,uideo pangaea,TRUE,0
+575,576,ab arce continuo Aeoliam,Vergil,Aeneid,1,56,56,344,,,celsa seded aeolus arce,arce aeoliam,aeolus arce,TRUE,0
+576,576,Aeoliam Tyrrhenaque tendit ad antra,Vergil,Aeneid,1,52,52,344,330,229,vasto rex aeolus antro,arce aeoliam,aeoliam uasto,TRUE,2
+578,578,strata Ceres,Ovid,Metamorphoses,1,272,272,345,331,,sternuntur segetes,strata ceres,sternuntur segetes,FALSE,
+578,578,strata Ceres,Vergil,Aeneid,2,306,306,345,,,sternit agros,strata ceres,sternit agros,FALSE,
+578,578,strata Ceres,Statius,Thebaid,6,298,298,346,,,praepete cursu,praepete pontus,praepete cursu,FALSE,
+578,578,strata Ceres,Lucan,Bellum Civile,5,564,564,,,230,niger inficit horror terga maris,niger pontus,quati niger,TRUE,0
+579,579,aequore Trinacrio refugique a parte Pelori,Vergil,Aeneid,3,411,411,347,332,230,angusti rarescunt claustra pelori,parte pelori,claustra pelori,FALSE,
+579,579,aequore Trinacrio refugique a parte Pelori,Vergil,Aeneid,3,536,536,347,332,,refugitque ab litore templum,refugique pelori,refugitque litore,TRUE,1
+581,581,infernas totidem demissa sub undas,Lucan,Bellum Civile,2,400,400,,333,,inferni superique maris,infernas undas,inferni maris,TRUE,1
+583,583,Pyracmon,Vergil,Aeneid,8,425,425,350,333,231,pyragmon,nudusque pyracmon,pyragmon his,TRUE,0
+583,583,Pyracmon,Statius,Thebaid,2,599,599,350,333,,pyragmone,pyracmon tempestas,pyracmone temnens,FALSE,
+584,584,nimbi ventique domos,Vergil,Aeneid,1,51,51,350,,,nimborum in patriam domos,nimbi domos,nimborum in,FALSE,
+584,584,nimbi ventique domos,Ovid,Metamorphoses,3,298,298,350,,,nimbos inmixtaque fulgura ventis,nimbi uentique,nimbos uentis,TRUE,2
+584,584,nimbi ventique domos,Ovid,Metamorphoses,3,594,594,350,,,ventorumque domos,uentique domos,uentorumque domos,FALSE,
+585,585,nimbi ventique domos,Statius,Thebaid,5,283,283,351,334,232,tu lato patrem committe profundo,latum profundum,lato profundo,TRUE,2
+585,585,nimbi ventique domos,Vergil,Aeneid,1,58,58,,,233,terras caelumque profundum,latum profundum,caelumque profundum,FALSE,
+585,585,"Iam caelum terramque meo sine numine, venti / miscere",Vergil,Aeneid,5,790,790,,334,,maria omnia caelo miscuit,caelum miscere,caelo miscuit,FALSE,
+587,588,Aeolus illis / rector,Vergil,Aeneid,1,52,52,,334,232,rex aeolus,aeolus rector,rex aeolus,TRUE,0
+588,589,Libya cum rumperet advena Calpen / Oceanus,Lucan,Bellum Civile,9,415,416,,334,,libyen et litora flexu oceano,libya oceanus,libyen oceano,TRUE,3
+589,589,Oenotria,Vergil,Aeneid,1,532,532,353,335,,oenotri,oenotria perderet,oenotri coluere,FALSE,
+589,589,Oenotria,Vergil,Aeneid,3,165,165,353,335,,oenotri,oenetria perderet,oenotri coluere,FALSE,
+589,589,Oenotria,Vergil,Aeneid,7,85,85,353,,,oenotria,oenotria fines,oenotria tellus,FALSE,
+589,589,Siculos Oenotria fines,Vergil,Aeneid,3,440,440,353,,,trinicaria finis italos,siculos fines,finis italos,TRUE,0
+589,589,Siculos Oenotria fines,Vergil,Aeneid,5,82,82,353,,,finis italos,siculos fines,fines italos,TRUE,0
+589,589,Siculos Oenotria fines,Vergil,Aeneid,7,334,334,353,,,italosve obsidere finis,siculos fines,italosue finis,TRUE,1
+589,589,Siculos Oenotria fines,Vergil,Aeneid,6,345,346,353,,,finisque canebat venturum ausonios,siculos fines,finesque Ausonios,TRUE,2
+591,592,intonuit donec pavidis ex aethere ventis / Omnipotens,Vergil,Aeneid,7,141,141,354,335,,hic pater omnipotens ter caelo clarus ab alto intonuit,intonuit omnipotens,omnipotens intonuit,TRUE,5
+594,595,"frementum / ora nequit, rex tunc aditus et claustra",Vergil,Aeneid,1,56,56,356,335,234,circum claustra fremunt,frementum claustra,claustra fremunt,TRUE,0
+596,596,ipse volens,Vergil,Aeneid,6,146,146,357,,,ipse volens,ipse uolens,ipse uolens,FALSE,
+596,596,data fera murmura porta,Vergil,Aeneid,1,83,83,357,336,,qua data porta ruunt,data porta,data porta,FALSE,
+595,596,claustra refringit / ipse volens placatque data fera murmura,Vergil,Aeneid,1,55,55,357,,235,murmure montis circum claustra fremunt,claustra murmura,murmure claustra,TRUE,2
+597,597,solio Boreas proturbat ab alto,Vergil,Aeneid,8,541,541,358,337,235,solio se tollit ab alto,solio alto,solio alto,TRUE,3
+597,597,solio Boreas proturbat ab alto,Vergil,Aeneid,11,301,301,358,337,,solio rex infit ab alto,solio alto,solio alto,TRUE,3
+597,597,solio Boreas proturbat ab alto,Statius,Thebaid,2,385,385,,,235,sublimem solio,solio alto,sublimem solio,TRUE,0
+597,597,solio Boreas proturbat ab alto,Statius,Thebaid,1,153,153,,,235,solio non altus,solio alto,solio altus,TRUE,1
+601,601,imis freta tollere harenis,Vergil,Aeneid,1,84,84,359,,,a sedibus imis,imis harenis,sedibus imis,TRUE,0
+601,601,imis freta tollere harenis,Vergil,Aeneid,1,125,125,359,,,et imis stagna refusa vadis,imis harenis,imis uadis,TRUE,2
+601,601,imis freta tollere harenis,Ovid,Metamorphoses,11,499,499,359,338,,imo vertit harenas,imis harenis,imo harenas,TRUE,1
+602,602,qualis eram nondum,Vergil,Aeneid,8,561,561,,337,,qualis eram cum,qualis eram,qualis eram,FALSE,
+602,602,vinclis et carcere clausus,Vergil,Aeneid,1,54,54,360,338,236,vinclis et carcere frenat,uinclis carcere,uinclis carcere,TRUE,1
+602,602,vinclis et carcere clausus,Ovid,Metamorphoses,4,663,663,360,,,clauserat hippotades aetnaeo carcere ventos,carcere clausus,clauserat carcere,TRUE,2
+602,602,vinclis et carcere clausus,Vergil,Aeneid,1,141,141,360,,,clauso ventorum carcere,carcere clausus,clauso carcere,TRUE,1
+604,604,da mergere Graios,Vergil,Aeneid,12,97,97,361,,,da sternere corpus,da mergere,da sternere,FALSE,
+608,608,cuncti fremere,Vergil,Aeneid,1,559,559,363,,,cuncti simul ore fremebant,cuncti fremere,cuncti fremebant,TRUE,2
+608,608,aequora venti,Vergil,Aeneid,5,763,763,363,,,aequora venti,aequora uenti,aequora uenti,FALSE,
+608,608,aequora venti,Vergil,Aeneid,1,43,43,363,,,aequora ventis,aequora uenti,aequora uentis,FALSE,
+608,608,aequora venti,Statius,Thebaid,10,248,248,,,238,aequora ventis,aequora uenti,aequora uentis,FALSE,
+609,609,contorto turbine,Vergil,Aeneid,9,724,724,,340,238,converso cardine,contorto turbine,conuerso cardine,FALSE,
+609,610,portam / impulit,Vergil,Aeneid,7,621,621,,,238,impulit ipsa portas,portam impulit,impulit portas,TRUE,2
+610,610,Hippotades,Ovid,Metamorphoses,4,663,663,,340,,hippotades,hippotades carcere,hippotades carcere,TRUE,1
+610,610,Hippotades,Vergil,Aeneid,11,674,674,,340,,hippotaden,impulit hippotades,hippotaden incumbens,TRUE,1
+610,610,Hippotades,Statius,Thebaid,8,698,698,,340,,hippotadae,impulit hippotades,perforat hippotadae,FALSE,
+610,611,laeti / Thraces equi,Vergil,Aeneid,2,417,418,,340,238,laetus eoiseurus equis,laeti equi,laetus equis,TRUE,2
+611,612,alas / nimborum cum prole Notus,Ovid,Metamorphoses,1,264,264,,,239,notus evolat alis,alas notus,notus alis,TRUE,1
+612,612,crinemque procellis,Vergil,Aeneid,1,85,85,366,,,creberque procellis,crinemque procellis,creberque procellis,FALSE,
+613,613,multa flavus caput Eurus harena,Vergil,Aeneid,7,31,31,366,341,240,multa flavus harena,multa flauus,multa flauus,FALSE,
+614,614,raucoque ad litora tractu,Statius,Thebaid,5,291,291,367,,,litore rauco,raucoque litora,litore rauco,TRUE,0
+614,614,raucoque ad litora tractu,Vergil,Aeneid,1,86,86,367,,,ad litora fluctus,raucoque litora,litora fluctus,TRUE,0
+615,615,freta curva,Ovid,Metamorphoses,11,505,505,367,341,,curvum circumstetit aequor,freta curua,curuum aequor,TRUE,1
+615,615,freta curva,Lucan,Bellum Civile,5,458,458,367,341,,aequora classem curua sequi,freta curua,aequora curua,TRUE,1
+615,615,freta curva,Statius,Thebaid,5,374,374,367,341,,curvas raptat aquas,freta curua,curuas raptat,TRUE,0
+616,616,ruit igneus aether,Vergil,Aeneid,1,90,90,368,342,241,ignibus aether,igneus aether,ignibus aether,FALSE,
+616,616,ruit igneus aether,Ovid,Metamorphoses,11,520,520,368,,,ignibus aether,igneus aether,ignibus aether,FALSE,
+617,617,piceoque premit nox omnia caelo,Ovid,Metamorphoses,11,549,549,368,,,inducta piceis e nubibus umbra omne latet caelum,omnia caelo,omne caelum,TRUE,1
+618,618,excussi manibus remi,Vergil,Aeneid,9,476,476,369,342,241,excussi manibus radii,excussi manibus,excussi manibus,FALSE,
+618,618,excussi manibus remi,Statius,Thebaid,9,486,486,369,,,excussumque manu tegimen,excussi manibus,excussumque manu,FALSE,
+619,619,latus accipit ictus,Ovid,Metamorphoses,11,507,507,369,,,latus icta,latus ictus,latus icta,FALSE,
+619,619,latus accipit ictus,Lucan,Bellum Civile,3,628,628,369,343,241,latus accipit ictus,latus ictus,latus ictus,TRUE,1
+620,621,vela super tremulum subitus volitantia malum / turbo rapit,Ovid,Metamorphoses,11,470,470,370,,242,vela tamen spectat summo fluitantia malo,uolitantia malum,fluitantia malo,FALSE,
+620,621,vela super tremulum subitus volitantia malum / turbo rapit,Lucan,Bellum Civile,5,595,595,370,343,242,turbo rapax fragilemque super volitantia malum vela tulit,turbo rapit,turbo rapax,FALSE,
+622,623,coruscae / ante ratem cecidere faces,Lucan,Bellum Civile,3,498,498,371,,,coruscas nocturni texere faces,coruscae faces,coruscas faces,TRUE,2
+624,624,dehiscentem cornu cum sustulit undam,Vergil,Aeneid,1,106,106,371,344,242,unda dehiscens,deshiscentem unda,unda dehiscens,TRUE,0
+626,626,murmure maesto,Lucan,Bellum Civile,1,607,607,372,344,,maesto cum murmure,murmure maesto,moesto murmure,TRUE,1
+630,630,Cyaneae concurrunt aequore cautes,Lucan,Bellum Civile,2,716,716,374,345,,cyaneas tellus emisit in aequora cautes,aequore cautes,aequora cautes,FALSE,
+631,631,superest mare,Vergil,Aeneid,5,615,615,374,,,superesse maris,superest mare,superesse maris,FALSE,
+633,633,occumbere leto,Statius,Thebaid,5,693,693,375,,,occumbere leto,occumbere leto,occumbere leto,FALSE,
+633,633,occumbere leto,Lucan,Bellum Civile,2,198,198,,346,,occumbere leto,occumbere leto,occumbere leto,FALSE,
+636,636,iuguntque manus,Ovid,Metamorphoses,9,314,314,376,,,iunctasque manus,iuguntque manus,iunctasque manus,FALSE,
+636,636,ora fatigant,Vergil,Aeneid,6,79,80,,348,,fatigat os,ora fatigant,fatigat os,TRUE,0
+637,637,sorbet hiatu,Lucan,Bellum Civile,3,261,261,378,,,absorbet hiatu,sorbet hiatu,absorbet hiatu,FALSE,
+639,639,illam ... torquens,Vergil,Aeneid,1,116,116,378,,,illam torquet,illam torquens,illam torquet,TRUE,3
+639,639,illam ... torquens,Vergil,Aeneid,9,402,403,380,,,torquens altam,illam torquens,torquens altam,TRUE,3
+643,643,mulcens mea pectora fletu,Vergil,Aeneid,1,197,197,380,,,pectora mulcet,mulcens pectora,pectora mulcet,TRUE,0
+650,650,manes piorum,Vergil,Aeneid,5,734,734,383,352,,amoena piorum,manes piorum,amoena piorum,FALSE,
+651,651,haec ait,Vergil,Aeneid,1,142,142,,,249,haec ait,haec ait,sic ait,FALSE,
+655,655,reserata dies,Statius,Thebaid,5,479,479,386,353,,reserata dies,reserata dies,reserata dies,FALSE,
+657,657,gurgite ab imo,Statius,Thebaid,5,371,371,387,,,gurgite in imo,gurgite imo,gurgite imo,TRUE,1
+657,657,gurgite ab imo,Ovid,Metamorphoses,6,364,364,,354,,imoque e gurgite,gurgite imo,imoque gurgite,TRUE,1
+659,659,velatur amictu,Vergil,Aeneid,3,545,545,388,354,,velamur amictu,uelatur amictu,uelamur amictu,FALSE,
+660,660,munere gaudens,Statius,Thebaid,12,54,54,388,,,munere gaudent,munere gaudens,munere gaudent,FALSE,
+667,667,tempestatisque sonorae,Vergil,Aeneid,1,53,53,391,358,255,tempestatesque sonoras,tempestatisque sonorae,tempestatesque sonoras,FALSE,
+670,670,nox illa fuit,Lucan,Bellum Civile,5,627,627,392,,,nox illa fuit,nox fuit,nox fuit,TRUE,1
+676,676,amplecti limina portae,Vergil,Aeneid,3,351,351,394,361,,amplector limina portae,amplecti limina,amplector limina,FALSE,
+682,682,verba ducis,Lucan,Bellum Civile,2,596,596,397,363,,verba ducis,uerba ducis,uerba ducis,FALSE,
+682,683,ingens ira deum,Vergil,Aeneid,5,706,706,398,364,,ira magna deum,ira deum,ira deum,TRUE,1
+688,688,infinditque salum,Vergil,Aeneid,5,142,142,,366,,infindunt sulcos,infinditque salum,infindunt sulcos,TRUE,1
+689,689,sedent ad iussa,Statius,Thebaid,7,19,19,400,,,sedent ab iusta,sedent iussa,sedent iusta,TRUE,1
+694,694,mensque mali praesaga,Vergil,Aeneid,10,843,843,406,368,263,mens mali praesaga,mali praesaga,mali praesaga,FALSE,
+696,696,medioque in crimine,Vergil,Aeneid,7,577,577,407,,,medioque in crimine,medioque crimine,medioque crimine,TRUE,1
+698,698,tuta tenens,Vergil,Aeneid,6,358,358,407,,,tuta tenebam,tuta tenens,tuta tenebam,FALSE,
+700,700,saevit atrox,Vergil,Aeneid,9,420,420,409,370,,saevit atrox,saeuit atrox,saeuit atrox,FALSE,
+701,701,nec qua se ardens effundere possit,Vergil,Aeneid,9,421,421,409,370,,nec quo se ardens immittere possit,ardens possit,ardens possit,TRUE,1
+702,702,obice ponti,Vergil,Aeneid,10,377,377,410,370,266,obice pontus,obice ponti,obice pontus,FALSE,
+702,702,obice ponti,Lucan,Bellum Civile,10,246,246,410,,,obice ponti,obice ponti,obiice ponti,FALSE,
+709,709,primoque in limine,Vergil,Aeneid,2,469,469,414,,268,primoque in limine,primoque limine,primoque limine,TRUE,1
+711,711,ore premit,Ovid,Metamorphoses,5,537,537,415,,,presserat ore,ore premit,presserat ore,TRUE,0
+712,712,genitoris imago,Vergil,Aeneid,2,560,560,416,,,genitoris imago,genitoris imago,genitoris imago,FALSE,
+712,712,genitoris imago,Vergil,Aeneid,6,695,695,,374,,genitor imago,genitoris imago,genitor imago,TRUE,2
+714,714,leti mille,Lucan,Bellum Civile,3,689,689,,375,,mille leti,leti mille,mille leti,TRUE,2
+721,721,"o pater, o patria, o priami domus",Vergil,Aeneid,2,241,241,,376,,o patria o divum domus ilium,patria domus,patria domus,TRUE,2
+722,722,dixit et extemplo,Vergil,Aeneid,2,376,376,420,,,dixit et extemplo,dixit extemplo,dixit extemplo,TRUE,1
+722,722,furiis ... terribilis,Vergil,Aeneid,12,946,946,,,271,furiis terribilis,furiis terribilis,furiis terribilis,TRUE,3
+723,723,sunt hic etiam tua vulnera,Vergil,Aeneid,1,461,461,420,376,,sunt hic etiam sua praemia,tua uulnera,sua praemia,FALSE,
+726,726,cornua.. torsit,Vergil,Aeneid,5,831,831,423,,,torquent cornua,cornua torsit,torquent cornua,TRUE,0
+727,727,longis porticibus,Vergil,Aeneid,2,528,528,424,,,porticibus longis,longis porticibus,porticibus longis,TRUE,0
+730,730,Tartareo tum sacra Iovi,Statius,Thebaid,2,49,49,425,,,trames agit nigrique iouis uacua atria ditat,tartareo ioui,nigrique iouis,FALSE,
+730,730,Tartareo tum sacra Iovi,Statius,Thebaid,11,209,209,425,,,inferno tonanti,tartareo ioui,inferno tonanti,TRUE,2
+730,730,Iovi Stygiisque,Vergil,Aeneid,4,638,638,,382,274,iovi stygio,ioui stygiis,ioui stygio,FALSE,
+730,730,Iovi Stygiisque,Statius,Thebaid,1,615,616,,382,,profundo Iovi,ioui stygiis,profundo ioui,TRUE,2
+730,731,Stygiis ... manibus,Ovid,Metamorphoses,5,115,115,425,,,stygiis cane cetera dixit manibus,stygiis manibus,stygiis manibus,TRUE,3
+730,731,Stygiis ... manibus,Ovid,Metamorphoses,13,465,465,425,,,stygios manes,stygiis manibus,stygios manes,TRUE,3
+731,731,super anxia,Statius,Thebaid,4,377,377,425,,,super anxia,super anixa,super anxia,FALSE,
+733,733,ipsum etiam,Vergil,Aeneid,7,496,496,,383,,ipse etiam,ipsum etiam,ipse etiam,FALSE,
+733,734,prementem / corde metus,Vergil,Aeneid,1,209,209,426,,,premit altum corde dolorem,prementem corde,premit corde,TRUE,1
+733,734,prementem / corde metus,Vergil,Aeneid,4,332,332,426,,,curam sub corde premebat,prementem corde,corde premebat,TRUE,0
+733,734,prementem / corde metus,Lucan,Bellum Civile,7,341,341,426,,,premit inde metus,premit metus,premit metus,TRUE,1
+735,735,scrobibus ... operti,Ovid,Metamorphoses,11,189,189,428,,,scrobibus opertis,scrobibus operti,scrobibus opertis,TRUE,2
+735,735,Phlegethontis operti,Statius,Thebaid,4,523,523,429,,,atra uadis phlegethon,phlegethontis operti,atra phlegethon,TRUE,1
+735,735,Phlegethontis operti,Lucan,Bellum Civile,6,514,514,,384,275,ditis operti,phlegethontis operti,ditis operti,FALSE,
+735,735,Phlegethontis operti,Statius,Thebaid,11,150,150,,384,275,acherontis operti,phlegethontis operti,acherontis aperti,FALSE,
+735,736,cruor ... stagnat,Statius,Thebaid,10,298,298,429,,,stagnant nigrantia tabo gramina,cruor stagnat,stagnant tabo,TRUE,1
+735,736,grandaeva ... Thessalis,Lucan,Bellum Civile,6,564,565,,384,,dira thessalis,grandaeua thessalis,dira thessalis,FALSE,
+735,736,grandaeva ... Thessalis,Statius,Thebaid,3,140,140,,384,,thessalis gauisa,grandaeua thessalis,thessalis gauisa,TRUE,3
+737,737,exanimes atavos,Vergil,Aeneid,6,401,401,430,,,exsangues umbras,exanimes atauos,exsanguis umbras,TRUE,1
+737,737,exanimes atavos,Statius,Thebaid,4,519,519,430,,,vulgusque exsangue,exanimes atauos,uulgusque exsangue,TRUE,0
+737,738,magnaeque nepotem Pleiones,Ovid,Metamorphoses,2,743,743,,385,,pleionesque nepos,nepotem pleiones,pleionesque nepos,TRUE,0
+738,738,tenues ... vultus,Vergil,Aeneid,6,292,292,430,,,tenuis sine corpore vitas,tenues uultus,tenues uitas,TRUE,2
+738,738,tenues ... vultus,Ovid,Metamorphoses,14,411,411,430,,277,tenues animae,tenues uultus,tenues animae,FALSE,
+738,738,tenues ... vultus,Statius,Thebaid,8,86,86,430,,,tenuis visu,tenues uultus,tenuis uisu,FALSE,
+738,738,tenues ... vultus,Statius,Thebaid,4,581,581,430,,,tenuisque impelli sanguine uultus,tenues uultus,sanguine uultus,FALSE,
+741,741,mitte metus,Vergil,Aeneid,1,257,257,431,,,parce metu,mitte metus,parce metu,FALSE,
+741,741,mitte metus,Vergil,Aeneid,1,202,202,,,277,maestumque timorem mittite,mitte metus,timorem mittite,TRUE,0
+741,741,volat ille mari,Vergil,Aeneid,12,333,333,431,,,illi aequore aperto ante notos zephyrumque volant,uolat mari,aequore uolant,TRUE,4
+741,741,volat ille mari,Vergil,Aeneid,3,124,124,431,,,pelagoque volamus,uolat mari,pelagoque uolamus,TRUE,0
+741,741,volat ille mari,Statius,Thebaid,11,203,203,431,,,volat aequore aperto,uolat mari,uolat aequore,FALSE,
+742,743,variis deorum prodigiis,Vergil,Aeneid,7,90,90,432,,,varias audit voces fruiturque deorum,uariis deorum,uarias deorum,TRUE,3
+742,743,variis deorum prodigiis,Statius,Thebaid,11,453,453,432,,,divom prodigium,deorum prodigiis,diuom prodigium,FALSE,
+744,744,heu ... ingreditur fatis,Vergil,Aeneid,3,17,17,433,,,fatis ingressus iniquis,ingreditur fatis,fatis ingressus,TRUE,0
+745,745,spoliis nuribusque superbus,Vergil,Aeneid,2,504,504,433,,,spoliisque superbi,spoliis superbus,spoliisque superbi,FALSE,
+746,746,cuperem ipse,Vergil,Aeneid,10,443,443,433,,,cuperem ipse,cuperem ipse,cuperem ipse,FALSE,
+747,747,triste nefas,Vergil,Aeneid,2,184,184,434,387,,nefas quae triste,triste nefas,nefas triste,TRUE,1
+747,747,triste nefas,Statius,Thebaid,9,887,887,434,,,triste nefas,triste nefas,triste nefas,FALSE,
+748,748,saevos irarum concipit ignes,Vergil,Aeneid,10,813,813,434,,,saevae irae,saeuos irarum,saeuae irae,TRUE,2
+748,748,saevos irarum concipit ignes,Lucan,Bellum Civile,7,103,103,,387,,iraeque calore,irarum ignes,iraeque calore,FALSE,
+749,749,rapis animam,Vergil,Aeneid,10,348,348,435,388,,animamque rapit,rapis animam,animamque rapit,TRUE,0
+749,749,rapis animam,Lucan,Bellum Civile,9,788,788,435,388,,eripiunt omnes animam,rapis animam,eripiunt animam,TRUE,1
+749,749,rapis animam,Ovid,Metamorphoses,6,539,539,,388,,animam hanc ne quod facinus tibi perfide restet eripis,rapis animam,animam eripis,TRUE,7
+750,750,pia turba,Lucan,Bellum Civile,6,798,798,436,,,camposque piorum poscit turba nocens,pia turba,piorum turba,TRUE,1
+750,750,pia turba,Lucan,Bellum Civile,8,79,79,,388,,pia turba senatus,pia turba,pia turba,FALSE,
+750,750,pia turba,Vergil,Aeneid,6,264,264,436,,,umbraeque silentes,turba silentium,umbraeque silentes,FALSE,
+751,751,pia ... secretis ... arvis,Vergil,Aeneid,6,477,477,436,,,arva tenebant ultima quae bello clari secreta,secretis aruis,arua secreta,TRUE,5
+751,751,pia ... secretis ... arvis,Vergil,Aeneid,6,744,744,436,,,laeta arva,secretis aruis,laeta arua,FALSE,
+751,751,pia ... secretis ... arvis,Ovid,Metamorphoses,11,62,62,436,,279,per arva piorum,pia aruis,arua piorum,TRUE,0
+751,751,pia ... secretis ... arvis,Vergil,Aeneid,6,443,443,436,,,secreti celant calles,secretis aruis,secreti calles,TRUE,1
+751,751,pia ... secretis ... arvis,Vergil,Aeneid,8,670,670,436,,,secretosque pios,pia secretis,secretosque pios,TRUE,0
+755,755,flagrantes aras,Vergil,Aeneid,12,171,171,439,,,flagrantibus aris,flagrantes aras,flagrantibus aris,FALSE,
+757,759,quam multa ... sic,Vergil,Aeneid,5,458,459,,392,,quam multa grandine nimbi culminibus crepitant sic,quam multa,quam multa,FALSE,
+757,757,multa ... cunctatur,Vergil,Aeneid,4,390,390,,,282,multa cunctantem,multa cunctatur,multa cunctantem,TRUE,1
+759,760,ferrumne ... imbelle,Vergil,Aeneid,2,544,544,442,392,,telumque imbelle,ferrumne imbelle,telumque imbelle,FALSE,
+759,760,ferrumne capessat / imbelle,Vergil,Aeneid,2,510,511,,392,283,inutile ferrum cingitur,ferrumne imbelle,inutile ferrum,TRUE,0
+762,762,contra effusa manus haerensque in pectore coniunx,Vergil,Aeneid,2,673,674,,393,,complexa pedes in limine coniunx haerebat,haerensque coniunx,coniunx haerebat,TRUE,0
+763,763,casus comitem,Vergil,Aeneid,9,277,277,444,393,,comitem casus,casus comitem,comitem casus,TRUE,0
+763,764,comitem accipies,Lucan,Bellum Civile,2,346,346,444,,,comitem rebusque secundis accipis,comitem accipies,comitem accipis,TRUE,2
+766,766,potui quae tantum ferre dolorem,Vergil,Aeneid,4,419,419,446,394,,si potui tantum sperare dolorem,potui dolorem,potui dolorem,TRUE,2
+766,766,potui quae tantum ferre dolorem,Vergil,Aeneid,9,426,426,446,394,,aut tantum potuit perferre dolorem,ferre dolorem,perferre dolorem,FALSE,
+772,772,ingentes animos,Lucan,Bellum Civile,8,28,28,448,396,,ingentes animo,ingentes animos,ingentes animos,FALSE,
+774,774,veteris sub nocte,Vergil,Aeneid,6,268,268,450,,,sola sub nocte,sub nocte,sub nocte,FALSE,
+775,775,sordidus ... ferrugine,Vergil,Aeneid,6,301,303,,397,286,sordidus ferruginea,sordidus ferrugine,sordidus ferruginea,TRUE,12
+776,776,caeruleae per cornua vittae,Vergil,Aeneid,3,64,64,451,396,287,caeruleis maestae vittis,caeruleae uittae,caeruleis uittis,TRUE,1
+777,777,ipse aeger anhelans,Vergil,Aeneid,10,837,837,451,398,287,ipse aeger anhelans,aeger anhelans,aeger anhelans,FALSE,
+779,779,gentis ... nefandae,Lucan,Bellum Civile,6,444,444,,398,,dirae gentis,gentis nefandae,dirae gentis,TRUE,2
+781,781,tergeminam,Vergil,Aeneid,4,511,511,,399,,tergeminamque hecaten,tergeminam stygias,tergeminamque hecaten,FALSE,
+781,781,tergeminam,Statius,Thebaid,10,366,367,,399,,tergeminis,tergeminam stygias,tergeminis figuris,TRUE,2
+784,784,primis faucibus Orci,Vergil,Aeneid,6,273,273,457,400,288,primisque in faucibus orci,faucibus orci,faucibus orci,FALSE,
+788,788,vos quibus imperium,Vergil,Aeneid,5,235,235,459,,,di quibus imperium,quibus imperium,quibus imperium,FALSE,
+788,788,vos quibus imperium,Vergil,Aeneid,6,264,264,459,,,di quibus imperium,quibus imperium,quibus imperium,FALSE,
+795,795,oculis aequis,Vergil,Aeneid,4,372,372,462,,,oculis divum pater amplius aequis,oculis aequis,oculis aequis,TRUE,2
+795,795,terras oculis quae prospicis aequis,Vergil,Aeneid,4,607,607,,403,,qui terrarum flammis opera omnia lustras,terras oculis,terrarum lustras,TRUE,3
+796,796,ultricesque deae,Vergil,Aeneid,4,610,610,,403,,dirae ultrices,ultricesque deae,dirae ultrices,TRUE,0
+796,796,ultricesque deae,Lucan,Bellum Civile,10,337,337,,404,,ultricesque deae,ultricesque deae,ultricesque deae,FALSE,
+796,796,ultricesque deae,Vergil,Aeneid,4,473,473,462,404,,ultrices dirae,ultricesque deae,ultricesque Dirae,TRUE,3
+796,796,ultricesque deae,Statius,Thebaid,12,772,773,,404,,ultricesque eumenidas,ultricesque deae,ultricesque eumenidas,TRUE,1
+797,798,tectis et saevas inferte faces,Vergil,Aeneid,7,335,335,464,,,tectis funereasque inferre faces,tectis faces,tectis faces,TRUE,2
+801,801,indignatos temerato litore,Lucan,Bellum Civile,3,193,193,,,293,ignotas temerato litore,temerato litore,temerato litore,FALSE,
+805,805,auroque coruscum,Vergil,Aeneid,9,163,163,466,,,auroque corusci,auroque coruscum,auroque corusci,FALSE,
+807,807,ora manusque feram,Vergil,Aeneid,3,490,490,467,,,manus sic ora ferebat,ora manusque,manus ora,TRUE,1
+808,808,arcanumque nefas,Lucan,Bellum Civile,6,569,569,,407,,arcanumque nefas,arcanumque nefas,arcanumque nefas,FALSE,
+813,814,nec membra sepulcro contegat,Vergil,Aeneid,10,557,557,470,,,condet membra sepulchro,membra sepulcro,membra sepulchro,FALSE,
+816,816,furiarum maxima,Vergil,Aeneid,3,252,252,472,409,,furiarum ego maxima,furiarum maxuma,Furiarum maxuma,TRUE,1
+818,818,fit fragor,Ovid,Metamorphoses,1,269,269,,410,,fit fragor,fit fragor,fit fragor,FALSE,
+818,818,fit ... inrumpunt,Vergil,Aeneid,2,494,494,,410,,fit rumpunt,fit inrumpunt,fit rumpunt,TRUE,2
+819,819,strictos ... enses,Vergil,Aeneid,10,577,577,473,,,strictum ensem,strictos enses,strictum ensem,TRUE,3
+820,820,in media iam morte,Vergil,Aeneid,2,533,533,474,,,in media iam morte,media morte,media morte,TRUE,1
+820,821,suffectaque leto lumina,Vergil,Aeneid,11,818,818,474,,,leto lumina,leto lumina,leto lumina,FALSE,
+822,822,primoque rudem sub limine,Lucan,Bellum Civile,2,106,106,475,,,primo in limine,primoque limine,limine uitae,TRUE,0
+822,822,primoque rudem sub limine,Statius,Thebaid,5,535,535,475,,,prima ad limina,primoque limine,prima limina,TRUE,1
+830,831,chaos ... mundum,Lucan,Bellum Civile,6,696,696,,,300,chaos innumeros avidum confundere mundos,chaos mundum,chaos mundos,TRUE,3
+832,832,"geminae aeternum portae, quarum altera",Vergil,Aeneid,6,893,893,480,,,geminae somni portae quarum altera,geminae portae,geminae portae,TRUE,1
+832,832,aeternum portae,Vergil,Aeneid,6,401,401,,415,301,aeternum latrans,aeternum portae,aeternum latrans,FALSE,
+834,834,tendere contra,Vergil,Aeneid,5,21,21,482,,,contra nec tendere,tendere contra,tendere contra,TRUE,1
+836,836,vulnera nota gerens,Vergil,Aeneid,2,278,278,483,,,vulneraque illa gerens,uulnera gerens,volneraque gerens,TRUE,1
+839,839,vittis castaque in veste sacerdos,Ovid,Metamorphoses,15,675,675,485,,,castos evinctus vitta crines albente sacerdos,uitta sacerdo,uitta sacerdos,TRUE,2
+839,839,vittis castaque in veste sacerdos,Vergil,Aeneid,6,661,661,,416,,sacerdotes casti dum vita,castaque sacerdos,sacerdotes casti,TRUE,0
+841,841,lucet via,Vergil,Aeneid,11,143,143,486,417,,lucet via,lucet uia,lucet uia,FALSE,
+849,849,turbamque ruentem,Vergil,Aeneid,6,305,305,,420,,turba ruebat,turbamque ruentem,turba ruebat,TRUE,3
