@@ -23,7 +23,7 @@ This work was conducted under the auspices of the Quantitative Criticism Lab (ww
 @inproceedings{burns-etal-2021-profiling,
   title = "Profiling of Intertextuality in {L}atin Literature Using Word Embeddings",
   author = "Burns, Patrick J. and
-            Brofos, James and
+            Brofos, James A. and
             Li, Kyle and
             Chaudhuri, Pramit and
             Dexter, Joseph P.",
