@@ -10,6 +10,8 @@ There are three subsections to this repository:
 
 Tested on Python 3.7.10. Dependencies necessary to run the experiments are included in ```requirements.txt```. Specific instructions to replicate the experiments is given in the ```README.md``` (and corresponding code notebooks) in each subfolder. 
 
+NB: The state of the repo at the time of publication of the the conference proceedings can be found in the tagged release `proceedings`. Some changes have been made to the code on the `main` branch since publication, primarily to address vulnerabilities in project dependencies.
+
 ## Abstract
 
 Intertextual relationships between authors is of central importance to the study of literature. We report an empirical analysis of intertextuality in classical Latin literature using word embedding models. To enable quantitative evaluation of intertextual search methods, we curate a new dataset of 945 known parallels drawn from traditional scholarship on Latin epic poetry. We train an optimized word2vec model on a large corpus of lemmatized Latin, which achieves state-of-the-art performance for synonym detection and outperforms a widely used lexical method for intertextual search. We then demonstrate that training embeddings on very small corpora can capture salient aspects of literary style and apply this approach to replicate a previous intertextual study of the Roman historian Livy, which relied on hand-crafted stylometric features. Our results advance the development of core computational resources for a major pre-modern language and highlight a productive avenue for cross-disciplinary collaboration between the study of literature and NLP.
